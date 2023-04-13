@@ -1,3 +1,6 @@
+---
+tag: 2a República
+---
 - La 2ª República es uno de los episodios que más polémica ha generado en la Historia de España, siendo objeto de todo tipo de manipulaciones políticas. 
 	- Por eso, es necesario aclarar qué fue la 2ª República y contar su historia desde el punto de vista más objetivo posible.
 
