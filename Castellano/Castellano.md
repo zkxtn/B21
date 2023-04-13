@@ -1,0 +1,54 @@
+%% Begin Waypoint %%
+- **[[0. Glosario]]**
+- **Attachments**
+	- [[Pasted image 20230216211811.png]]
+- **Castellano_arch 2**
+	- **1r TRIM**
+		- **Actividades**
+			- [[Analisi inverso.pdf]]
+			- [[Caste 11.10.2022]]
+		- **Day-Day**
+			- [[(1r) examen de caste]]
+			- [[0. Indice 1r TRIM]]
+			- [[Caste 09.30.2022]]
+			- [[Caste 10.07.2022]]
+			- [[Caste 10.11.2022]]
+			- [[Caste 11.08.2022]]
+		- **Texto El lapiz del carpintero**
+			- [[Act. EL LAPiZ DEL CARPIINTERO]]
+			- [[Fragmento de EL LAPIZ DEL CARPINTERO- Resumen]]
+	- **2n TRIM**
+		- **Actividades**
+			- [[21.02.2023]]
+			- [[Act. Navidades. Oracion compuesta]]
+			- [[context.mdb]]
+			- [[Sele 2019.pdf]]
+			- [[Castellano/0. Glosario/Figuras retóricas/Untitled]]
+		- **Attachments**
+			- [[20230221131537752.pdf]]
+			- [[glosari_castella_2023.pdf]]
+		- **D-D**
+			- [[01.10]]
+			- [[01.13]]
+			- [[01.17]]
+			- [[01.31]]
+			- [[02.03]]
+			- [[Ejercicios de TAN]]
+		- [[Realizado]]
+- **Castellano_archv**
+	- **U3**
+		- [[0. U3]]
+	- **U4**
+		- **Apuntes clase**
+			- [[caste 6.03.2022]]
+			- [[Caste 2022.04.20]]
+		- **Ejercicios**
+			- [[Selecat Caste Septiembre 2021]]
+	- **U5**
+		- **Apuntes clase**
+			- [[Caste 2022.05.16]]
+			- [[Caste 2022.05.18]]
+			- [[GUIA TEXTO ARG. VIRUEL]]
+			- [[Texto Argumentativo 1]]
+
+%% End Waypoint %%

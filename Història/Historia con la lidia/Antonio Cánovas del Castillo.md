@@ -1,0 +1,1 @@
+ **[[Antonio Cánovas del Castillo]]**, polític conservador clau en la tornada dels *Borbó* i el gran arquitecte del nou sistema polític de la Restauració.

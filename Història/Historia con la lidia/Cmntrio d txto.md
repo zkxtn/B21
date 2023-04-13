@@ -1,0 +1,4 @@
+- solo si es texto primaria o secundaria + pq (contemporanea o no contemporanea a los hechos).
+- Cntxto historico (Titulo de la epoca + (o no) subtítulo) + AÑOS
+- Citacionees textuales
+- 

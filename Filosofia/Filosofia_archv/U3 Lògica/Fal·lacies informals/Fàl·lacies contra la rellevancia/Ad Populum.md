@@ -1,0 +1,5 @@
+- **ex populo** -> intenta convèn
+- **Ad Lazarum** -> Apelació al pobre
+- **Ad Crumenam** -> Apelació al ric
+- **Ad Antiquitatem** -> Apelació a l'antiguitat
+- **Apelació a la novetat** 

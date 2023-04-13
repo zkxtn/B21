@@ -1,0 +1,1 @@
+Presenta dos punts de vista com les dos úniques opcions possibles.

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2c79c872683c5573","x":-326,"y":-166,"width":250,"height":60,"type":"text","text":"# 1930"},
+		{"id":"bf2fc5fd5c1e8508","x":-280,"y":-40,"width":499,"height":282,"type":"text","text":"- Primer gob: Berenguer\n\t- Consciente de un futuro democratico y que hay que convocar elecciones (pero no puede)\n- Segundo gob: Almirante Aznar\n\t- Consceinte de que hay que realizar elecciones y primero las realiza a nivel municipal\n\t\t- Se encuentra con el [[1.2. Pacte de Sant Sebastià]"},
+		{"type":"text","text":"Elecciones:\n- Numero de votos general gana monarquicos\n- En ciudades comite revolucionario\n\t- Argumentan que en laas ciudades  es mas dificil la influencia del caciquismo (y poco a poco de forma esporadica empiezan a proclamar la republica primero en eíbar)","id":"265cf6979fb20bce","x":240,"y":-40,"width":400,"height":282},
+		{"type":"text","text":"## 12 de abril","id":"6813f3e8073b8bc2","x":240,"y":-120,"width":250,"height":60},
+		{"id":"629893b55e97fb03","x":-280,"y":256,"width":499,"height":64,"type":"text","text":"Insurreccion de jaca = caida de berenguer, subida del almirante aznar"}
+	],
+	"edges":[]
+}

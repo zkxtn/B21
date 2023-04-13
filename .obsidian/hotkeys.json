@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Templates/Timeline.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}

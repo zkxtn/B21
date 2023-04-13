@@ -1,0 +1,1 @@
+Aplica una generalització sense tenir les probes suficients.

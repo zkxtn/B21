@@ -1,0 +1,1 @@
+Si no es pot demostrar la certessa, llavors és fals. (O a l'inrevès)

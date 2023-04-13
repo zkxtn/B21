@@ -1,0 +1,38 @@
+%% Begin Waypoint %%
+- **[[Acción]]**
+	- **[[Estructura interna de la acción]]**
+		- [[Acción Lineal]]
+		- [[Estructura externa de la acción]]
+		- **Evocaciones retrospectivas**
+			- [[Evocaciones Retrospectivas]]
+			- [[In media res]]
+			- **Referencias temporales**
+				- [[Contrapunto]]
+				- **Referencias temporales anteriores**
+					- [[flashback]]
+				- [[Referencias temporales anteriores]]
+				- **Referencias temporales posteriores**
+					- [[flashforward]]
+				- [[Referencias temporales posteriores]]
+				- [[Saltos temporales]]
+			- [[Referencias temporales]]
+	- [[Narración]]
+- **[[Diálogo]]**
+	- [[Diálogo de Estilo directo]]
+	- [[Diálogo de Estilo inderecto]]
+- **[[Espacio]]**
+- **[[Narrador]]**
+	- [[Narrador Omnisciente]]
+	- [[Narrador Personaje Secundario]]
+	- [[Narrador Protagonista-DESKTOP-BT4F8NG]]
+	- [[Narrador Protagonista]]
+- **[[Personajes]]**
+- **Punto de vista**
+	- [[Observador externo]]
+	- [[Punto de vista externo]]
+	- [[Punto de vista interno]]
+	- [[Punto de vista móvil o caleidoscopico]]
+	- [[Punto de vista narrativo]]
+- [[Tema_1_La_narraci_n (17) (2) 1.docx]]
+
+%% End Waypoint %%

@@ -1,0 +1,1 @@
+Conjunt d'institucions i l pròpia administració i autonomia del país vasc i navarra

@@ -1,0 +1,10 @@
+Els grecs antics: Moltes civilitzacions han intentat entendre els cels, però començarem amb l'**Antiga Grècia (s. X al II aC)**, que ha sigut la que més ha influït en el pensament occidental. Els grecs tenien en general *una concepció geocèntrica de l'Univers*. Van veure que les estrelles descrivien moviments circulars, però per contra els planetes descrivien moviments més complicats (de fet planeta significa errant en grec). Volien forçar que tots els moviments estiguessin compostos per cercles, per considerar el cercle una figura perfecta. [[Plató]] (V-IV aC) i [[Apunts Aristoteles|Aristòtil]] (IV aC) es manifestaven en aquesta direcció: geocentrisme amb moviments compostos per cercles. Van haver-hi autors com **Aristarc de Samos** (IV-III aC) que defensaven un model heliocèntric, però el model geocèntric es va imposar durant molts segles.
+ 
+- **Claudi Ptolemeu** (s. I dC): autor del llibre *Almagest* (que significa el Suprem) realitza una descripció dels astres segons el model geocèntric. Porta complicacions segons es van afinant els càlculs.
+- **[[Copèrnic|Nicolau Copèrnic]]** (s. XVI): teoria heliocèntrica al llibre *De Revolutionibus Orbium Coelestium.*
+- **Tycho Brahe** (s. XVI): observacions astronòmiques força precises que hereta el seu ajudant
+- **Johannes Kepler** (s. XVII), defensor del model de Copèrnic. Enuncia les tres lleis que porten el seu nom (amb el Sol al centre).
+- **Galileu Galilei** (s. XVI-XVII) realitza observacions que trenquen la visió geocèntrica i recolza la teoria de Kepler. Enuncia la llei d'inèrcia que, amb aportacions de René Descartes, pren **Isaac Newton** (s. XVII-XVIII) com a primera llei de la seva teoria del moviment.
+- Al 1687 es publica el Philosophiae Naturalis Principia Mathematica, on Newton estableix les lleis de la dinàmica i la llei de la gravitació universal. Aquesta última deduïda amb ajuda de les lleis de Kepler.
+
+Cal destacar que tots aquests canvis van influir notablement en la visió que l'home tenia de si mateix, van donar prioritat a l'ús de la raó i van ajudar a que es produís tota una revolució social a Europa: la Il·lustració.

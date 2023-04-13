@@ -1,0 +1,13 @@
+- Causas
+- Bandos
+- Como se divide españa
+	- del 17 - 20
+- Fases
+- Consecuencias
+	- medio millon de muertos
+	- exiliados
+		- sobretodo al sur de francia
+			- rapidamente empieza la WWII
+				- muchos acaban en campos de concentracion o deportados a españa
+		- mas poder a sudamerica
+		- 3000/4000 exiliados

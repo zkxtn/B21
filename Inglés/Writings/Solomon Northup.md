@@ -1,0 +1,6 @@
+# Solomon "Platt" Northup
+Solomon, bornt a free man on July 10, 1807 or 1808, was a medium height black men with short curly hair. He looked slim but was surprisngly strong, had calloused fingers from playing the violin and working on camps. The most known depiction of him is sitting in what seems to be a barn, dressed in old and torn simple clothes.
+Northup was a professional violinist and worked as a musician untill he was tricked and sold into slavery. He was described by many as a talented fiddler and a hard-working strong-willed man. During his years of enslavement he did many jobs, such as construction and cotton picking.
+In spite of his hard life, Solomon prevailed and managed to return to his family. Northup was an illliterate, he couldn't have possibly kept a journal or written down his experiences, and despite that, he was able to recall his story with great detail. He remebered the landscape of the plantations he had been in and the names of every single slaver, enslaved person and bystander he had encountered during his time as a slave. And with all that information, he had written a memoir of the 12 hardest days of his live, his 12 years of slavery.
+___
+Notes :[[Solomon Northup - A description of a person (notes)]]

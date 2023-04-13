@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"44b33b23c6dc3f76","x":-187,"y":420,"width":411,"height":60,"type":"text","text":"# Subordinadas Relativas"},
+		{"id":"8d8f2b521a6c948a","x":-176,"y":-73,"width":400,"height":400,"type":"file","file":"Castellano/Castellano_arch 2/2n TRIM/D-D/01.17.md"},
+		{"id":"8c8e5bce0a86a1d2","x":-123,"y":586,"width":284,"height":170,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/1. Función.md"},
+		{"id":"b382c4d4f7aee8f4","x":-106,"y":872,"width":250,"height":212,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/3. Relativo.md"},
+		{"id":"b869c373ab806c21","x":-347,"y":1268,"width":299,"height":216,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/2. Características/2. Características.md"},
+		{"id":"ac0e2a158f038e3e","x":-397,"y":1579,"width":400,"height":348,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/2. Características/Valor anafórico.md"},
+		{"id":"934485506fece5fa","x":-840,"y":1579,"width":400,"height":348,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/2. Características/Valor catafórico.md"},
+		{"id":"4e8de84192159f8f","x":247,"y":1438,"width":400,"height":253,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Pronombres relativos.md"},
+		{"id":"eebac317b793472b","x":108,"y":1875,"width":278,"height":224,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Complejos.md"},
+		{"id":"15cd426355817ad1","x":436,"y":1875,"width":275,"height":184,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Simples.md"},
+		{"id":"116561a0e30f7309","x":1064,"y":1212,"width":467,"height":56,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/4. Tipos de relativo.md"},
+		{"id":"c0fb1cb0bbfe21bb","x":681,"y":1420,"width":328,"height":317,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Adverbios relativos.md"},
+		{"id":"63e13686e984d2ff","x":1040,"y":1420,"width":334,"height":287,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Determinante.md"},
+		{"id":"42f25e9d000bdf7f","x":1064,"y":1737,"width":286,"height":116,"color":"3","type":"text","text":"> Ej:\n> Conozco a una chica **cuyo** padre es dimplomático\n> -> F: CN"},
+		{"id":"5e4ecb84a964a5f7","x":1448,"y":1395,"width":400,"height":50,"type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Oraciones de relativo.md"},
+		{"id":"4539e7f5c1f55d24","x":1731,"y":1506,"width":400,"height":201,"color":"5","type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Especificativa.md"},
+		{"id":"9979a9b2c75bbf06","x":1731,"y":1795,"width":400,"height":201,"color":"5","type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Explicativas.md"},
+		{"id":"36bebb807710c6cb","x":1731,"y":2049,"width":400,"height":229,"color":"6","type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Semilibres.md"},
+		{"id":"ce236cc9d6e8c81f","x":1731,"y":2323,"width":400,"height":274,"color":"6","type":"file","file":"Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Libres.md"}
+	],
+	"edges":[
+		{"id":"1eeb9062b644db51","fromNode":"b382c4d4f7aee8f4","fromSide":"bottom","toNode":"b869c373ab806c21","toSide":"top"},
+		{"id":"6f7906d4959c228f","fromNode":"b382c4d4f7aee8f4","fromSide":"bottom","toNode":"116561a0e30f7309","toSide":"top"},
+		{"id":"13427cbe918615c3","fromNode":"44b33b23c6dc3f76","fromSide":"bottom","toNode":"8c8e5bce0a86a1d2","toSide":"top"},
+		{"id":"c4d25805835ac497","fromNode":"8c8e5bce0a86a1d2","fromSide":"bottom","toNode":"b382c4d4f7aee8f4","toSide":"top"},
+		{"id":"62779e3d6a18abc4","fromNode":"b869c373ab806c21","fromSide":"bottom","toNode":"ac0e2a158f038e3e","toSide":"top"},
+		{"id":"cbf42b5a04780022","fromNode":"ac0e2a158f038e3e","fromSide":"left","toNode":"934485506fece5fa","toSide":"right"},
+		{"id":"289bfbea364be633","fromNode":"4e8de84192159f8f","fromSide":"bottom","toNode":"15cd426355817ad1","toSide":"top"},
+		{"id":"e363c0204018a425","fromNode":"4e8de84192159f8f","fromSide":"bottom","toNode":"eebac317b793472b","toSide":"top"},
+		{"id":"afa4a43c1d022aed","fromNode":"116561a0e30f7309","fromSide":"bottom","toNode":"4e8de84192159f8f","toSide":"top"},
+		{"id":"e5fdce0abff53e63","fromNode":"116561a0e30f7309","fromSide":"bottom","toNode":"c0fb1cb0bbfe21bb","toSide":"top"},
+		{"id":"525c0edd5e578bac","fromNode":"116561a0e30f7309","fromSide":"bottom","toNode":"63e13686e984d2ff","toSide":"top"},
+		{"id":"7657466ed387034d","fromNode":"63e13686e984d2ff","fromSide":"bottom","toNode":"42f25e9d000bdf7f","toSide":"top"},
+		{"id":"0f923ce54c3cd9bf","fromNode":"5e4ecb84a964a5f7","fromSide":"bottom","toNode":"4539e7f5c1f55d24","toSide":"left"},
+		{"id":"3fc000a1723341ed","fromNode":"5e4ecb84a964a5f7","fromSide":"bottom","toNode":"9979a9b2c75bbf06","toSide":"left"},
+		{"id":"0ffe33dff6533c96","fromNode":"5e4ecb84a964a5f7","fromSide":"bottom","toNode":"36bebb807710c6cb","toSide":"left"},
+		{"id":"40de335ae76b1881","fromNode":"5e4ecb84a964a5f7","fromSide":"bottom","toNode":"ce236cc9d6e8c81f","toSide":"left"},
+		{"id":"8fe6f1806a8f5b47","fromNode":"116561a0e30f7309","fromSide":"bottom","toNode":"5e4ecb84a964a5f7","toSide":"top"}
+	]
+}

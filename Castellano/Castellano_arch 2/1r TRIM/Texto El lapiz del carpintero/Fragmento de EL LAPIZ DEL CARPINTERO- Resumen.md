@@ -1,0 +1,1 @@
+En el comedor de la prisión, el doctor Da Barca ofrece un illusorio último banquete a Gengis Khan. Todos los presos acaban siendo participes de esta fantasía creada por las palabras del doctor y son sorprendidos por el último plato de aparencia modesta pero con un gran valor sentimental para Gengis.

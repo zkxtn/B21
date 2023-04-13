@@ -1,0 +1,1 @@
+Petit grup de persones riques i molt influents, que controlen una part dels interessos polítics, econòmics, administratius i judicials del país.

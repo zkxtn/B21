@@ -1,0 +1,18 @@
+- La lògica és la ciència del raonament correcte
+- El raonament és un proces mental que es caracteritza pel pas d'un o més enunciats a un altre de posterior.
+- Llenguatge natural -> mitjà d'expressió utilitzat per una comunitat lingüistiaca (que s'apren per anomenar objectes, fer preguntes, espressar emocions....)
+- Llenguatge formal -> llenguatje que segueix l'estructura formal dels raonaments.
+- Llenguatge formal  -> llenguatge artificial creat per a l'analisis lògica
+	- FINALITAT = extreure la forma lògica dels arguments
+	- PARTS:
+		- Símbols primitius
+		- Símbols d'enllaç
+		- Regles de formació -> indiquen si és una expressió correcte.
+
+- Lògica informal
+	- Fal·làcies -> raonaments  persuasius i convincents, però incorrectes des de un punt de vista lògic. (raon. que semblen correctes xro no ho són)
+		- Sofisme -> argumentació fal·laç amb inteció d'enganyar.
+		- Paralogisme -> argumentació fal·laç sense inteció d'enganyar.
+		- TIPUS:
+			- F. formals -> defecte en la forma lògica del pensament
+			- F. informals -> defecte en el contigut o el llenguatge.

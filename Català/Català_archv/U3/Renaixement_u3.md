@@ -1,0 +1,15 @@
+-   **Origen**: _Itàlia segle XV_
+-   **Extensió:** _tota Europa s XVI_
+-   **Característiques:**
+    -   _**Revalorització de la cultura clàssica**_
+        -   _imitació dels **models grecollatins**_
+    -   _**Antropocentrisme**_
+        -   _l’home com a mesura de totes les coses_
+    -   _**Racionalisme**_
+        -   _la **raó** com a única via per assolir el **coneixement**_
+    -   _**Ideal de bellessa**_
+        -   _basat en l_*’equilibri, mesura** i **harmonia***
+    -   _Subjecció a la **norma** i a la **disciplina artística**_
+    -   _**Naturalessa** com a model a imitar/ perfeccionar_
+    -   _**Erasme de Rotterdam i Joan Lluís Vives**_
+        -   _defensaven valors basats en la **tolerància** i propugnaven la **reforma de l’esglèsia

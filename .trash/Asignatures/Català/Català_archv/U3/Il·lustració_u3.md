@@ -1,0 +1,15 @@
+-   **Extensió:** _Europa s XVIII i culmina a la revolució francesa 1789._
+-   corrent cultural i de pensament.
+-   **Objectiu:** _“il·luminar amb la llum de la raó el món”_
+-   **Característiques:**
+    -   _La **raó** és la base principal del **coneixement.**_
+    -   _**Optimisme sobre la capacitat de l'ésser humà** i sobre el progrés de la **humanitat.**_
+    -   _Vol posar en pràctica les **descobertes científiques** i aplicar les **aportacions dels filòsofs.**_
+    -   _L_*’educació** com el millor mitjà **per difondre la raó.***
+-   Principals pensadors:
+-   Montesquieu
+    -   Proposa la separació dels poders de l'estat: Poder executiu, judicial i legislatiu.
+-   Rousseau.
+    -   Planteja el concepte de democràcia en què la sobirania nacional recau sobre el poble.
+-   Voltaire.
+    -   Critica l'absolutisme i proposa un sistema polític parlamentari que limités el poder del monarca.

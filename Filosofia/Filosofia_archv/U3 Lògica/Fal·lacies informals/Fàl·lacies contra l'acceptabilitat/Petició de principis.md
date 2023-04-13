@@ -1,0 +1,1 @@
+Utilitza la conclusió com a premisa

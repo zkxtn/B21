@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Bando Republicano\n>- **Republicano**\n>- **Comunista**\n>- **Rojos**\n## Apoyo\n- URSS (Armas, estrategia militar)\n- Gobierno Mexicano (Simbólico)\n\t- Únicos que no reconocen a Franco\n- Brigada Internacional","id":"1e24450b337480a0","x":-518,"y":-400,"width":398,"height":360},
+		{"type":"text","text":"# Bando Nacional\n> - **Nacional**\n> - **Fascista**\n> - **Insurrectes**\n\n## Apoyo\n- Estados fascistas\n\t- Alemania (Militar)\n\t- Italia (Militar)\n\t- Portugal (Fronteres)\n- USA (Ford, Autoomovilistica)\n- Reino Unido (Empresarial)\n","id":"e85dd9f7f606b311","x":-100,"y":-400,"width":427,"height":400},
+		{"type":"text","text":"brigadistas: 8 nov 1936\n- Vinieron entre 50.000 y 60.0000","id":"e895e3d9e598f73e","x":340,"y":-400,"width":340,"height":220},
+		{"id":"5444cde5c7d898d4","x":340,"y":-160,"width":340,"height":300,"type":"text","text":"# Brigadistas\n- Organización en milicias de voluntarios a la guerra\n- Falta de preparación militar\n\t- Los primeros meses, se encontraran plagados de derrotas. En lo que las milicias tardan en formarse militarmente"},
+		{"id":"43dc855c5c116523","x":700,"y":-400,"width":367,"height":351,"type":"text","text":"## Guernica\n- Primera ciudad atacada a población civil\n- Primero culparon a los republicanos, mentira que sera descubierta por fotos de las aviaciones del bloque nacional. despues intentan argumntar que la poblacion no era su objetivo, desmentido dado a que no tiene sentido que haya sido la unica eralmente afectada."}
+	],
+	"edges":[]
+}

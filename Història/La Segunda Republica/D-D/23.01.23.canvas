@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Mayo","id":"3a4a6b1be100bd39","x":297,"y":-221,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"- Azaña (presi de república)\n- Casar Quiroga (presi gobierno)","id":"0f70dd57e3ffd6c8","x":488,"y":-432,"width":250,"height":137},
+		{"type":"text","text":"# 12/7","id":"a715f5f84a250902","x":622,"y":-222,"width":116,"height":73,"color":"1"},
+		{"type":"text","text":"# 13/7","id":"e98b01c877f80ef0","x":878,"y":-219,"width":122,"height":56,"color":"1"},
+		{"type":"text","text":"## Problemas\n___\n- Dificil governanza\n- Violencia\n> Principalmente por la Falange Española. \n> \t- Razon por la que se detiene a Jose Antonio Primo de Rivera (y acaba siendo ejecutado, Franco se niega a su liberacion)\n- Movilizaciones\n- radicalidad\n- conspiración militar","id":"c3151e6445e7cc9c","x":-132,"y":-660,"width":426,"height":407},
+		{"type":"text","text":"# 17-20/7/1936","id":"495a974906112b6e","x":1250,"y":-219,"width":261,"height":70,"color":"1"},
+		{"type":"text","text":"## Levantamiento o golpe de Estado","id":"4d128bfb2caa8383","x":1164,"y":-113,"width":434,"height":95},
+		{"type":"text","text":"### Partidos de Derechas","id":"8a0efb42b3ee8a4d","x":-363,"y":568,"width":276,"height":60},
+		{"type":"text","text":"## Ceda\n- Volen la reforma de la consticució del 31\n- ## Bloque nacional\n> - Carlistas\n> - Calvo Sotelo\n> - Alfonsistes\n## Falange Española / Jons \n> **Falange española**: José antonio primo de rivera (Politico) (hijo de Miguel Primo de Rivera)\n> **JONS**: (Juntas ofensivas nacional-sindicalistas)","id":"254fb41e75e9566d","x":-30,"y":520,"width":363,"height":480},
+		{"type":"text","text":"- Reformas\n- Amnistia General (1934)\n    > A todos los detenidos en 1934:\n    > - Mineros/Obreros (asturias)\n    > - Polítics com Lluís Companys (Catalunya)\n- Alejo de la orbita de Madrid a sospechosos de promoción de un gope de estado:\n>- Franco (Canarias)\n>- Mola (Navarra)\n>\t- Casualmente se estrella en avión\n>- Godet\n>\t- Es ejecutado por los republicanos","id":"aede0791e668f444","x":-16,"y":-33,"width":438,"height":433},
+		{"type":"text","text":"# Front Popular\n### + CNT (FAI i Treintistas)\n___\n#### Front Popular\n> - Izq. Republicana\n> - Union republicana\n> - PSOE (+ UGT)\n> - PCE\n> - Front esquerre\n> - POUM","id":"f08805355c1ac4b0","x":-344,"y":-75,"width":239,"height":495},
+		{"type":"text","text":"# 16/02/36","id":"b170091875ccb291","x":-541,"y":-213,"width":213,"height":60,"color":"1"},
+		{"type":"text","text":"Simpatizantes de la **falange española** assesinan al teniente\n**José Castillo**","id":"6bbe57273742f574","x":590,"y":-125,"width":180,"height":175},
+		{"type":"text","text":"Los comunistas asesinan a **José Calvo Sotelo** (dirigente de extr. derecha)","id":"d965e739aec2ec6d","x":822,"y":-113,"width":235,"height":133},
+		{"type":"text","text":"Ojo por Ojo","id":"a9a07c33e845d38f","x":756,"y":82,"width":132,"height":57}
+	],
+	"edges":[
+		{"id":"757e54b4161a86bb","fromNode":"f08805355c1ac4b0","fromSide":"right","toNode":"aede0791e668f444","toSide":"left"},
+		{"id":"45c47c3c93a03731","fromNode":"8a0efb42b3ee8a4d","fromSide":"right","toNode":"254fb41e75e9566d","toSide":"left"},
+		{"id":"b15f0dd5f4be6ca4","fromNode":"b170091875ccb291","fromSide":"bottom","toNode":"f08805355c1ac4b0","toSide":"left"},
+		{"id":"e6db14dd01036080","fromNode":"b170091875ccb291","fromSide":"bottom","toNode":"8a0efb42b3ee8a4d","toSide":"left"},
+		{"id":"3ac5cba7d5122bbe","fromNode":"0f70dd57e3ffd6c8","fromSide":"left","toNode":"3a4a6b1be100bd39","toSide":"top"},
+		{"id":"51efc4dc4cddbfe4","fromNode":"b170091875ccb291","fromSide":"right","toNode":"3a4a6b1be100bd39","toSide":"left","color":"1"},
+		{"id":"c1294bebfaf83a1a","fromNode":"495a974906112b6e","fromSide":"bottom","toNode":"4d128bfb2caa8383","toSide":"top"},
+		{"id":"a26b789161a582ed","fromNode":"3a4a6b1be100bd39","fromSide":"right","toNode":"a715f5f84a250902","toSide":"left"},
+		{"id":"43fc2a2246cf48c0","fromNode":"a715f5f84a250902","fromSide":"right","toNode":"e98b01c877f80ef0","toSide":"left"},
+		{"id":"fc5af3d3b6506af2","fromNode":"e98b01c877f80ef0","fromSide":"right","toNode":"495a974906112b6e","toSide":"left"},
+		{"id":"7e6ef9f8b7948aab","fromNode":"6bbe57273742f574","fromSide":"bottom","toNode":"a9a07c33e845d38f","toSide":"left"},
+		{"id":"ae57baca140565f8","fromNode":"a9a07c33e845d38f","fromSide":"right","toNode":"d965e739aec2ec6d","toSide":"bottom"},
+		{"id":"d4142045cb45f20f","fromNode":"d965e739aec2ec6d","fromSide":"top","toNode":"e98b01c877f80ef0","toSide":"bottom"},
+		{"id":"fc87b08e902cdbea","fromNode":"a715f5f84a250902","fromSide":"bottom","toNode":"6bbe57273742f574","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+Apelació a la misericordia/ compasió/ pietat.

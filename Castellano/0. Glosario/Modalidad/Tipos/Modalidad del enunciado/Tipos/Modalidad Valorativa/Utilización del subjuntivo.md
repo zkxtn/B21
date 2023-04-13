@@ -1,0 +1,1 @@
+Marca subjetividad a pertenecer al reino del deseo del querer mas q al de la realidad.
