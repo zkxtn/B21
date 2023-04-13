@@ -11,8 +11,12 @@
             "id": "1702c14b1721558e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md"
+              }
             }
           },
           {
