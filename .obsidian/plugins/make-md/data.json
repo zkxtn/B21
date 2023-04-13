@@ -16,7 +16,7 @@
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
   "activeView": "root",
-  "hideFrontmatter": true,
+  "hideFrontmatter": false,
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
@@ -57,7 +57,8 @@
       "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional",
       "Història",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
-      "Història/La Segunda Republica"
+      "Història/La Segunda Republica",
+      "Història/La Segunda Republica/0. Dictablanda + Inici"
     ]
   },
   "expandedSpaces": [
@@ -94,6 +95,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681417516391,
+  "spacesAutoBackupLast": 1681418179149,
   "spacesUseAlias": true
 }

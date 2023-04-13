@@ -13,7 +13,7 @@
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "Història/La Segunda Republica/0. Dictablanda + Inici"
+                "contextPath": "Història/La Segunda Republica/D-D"
               }
             }
           }
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "1bfbe1908e5d2bb2",
+            "id": "cef77ea80f210319",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -159,8 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "747ca7a38b02bec4",
+  "active": "cef77ea80f210319",
   "lastOpenFiles": [
+    "Història/La Segunda Republica/D-D/D-D.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
     "Història/La Segunda Republica/La 2ª República.md",
@@ -173,7 +175,6 @@
     "Untitled.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/3. Proclamació de la II República.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
     "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
     "Història/El franquisme/P2 T11P2 T11.md",
     "Història/Tema 6 y 8/Dictablanda.md",
@@ -199,7 +200,6 @@
     "PDF'S SELE/FISICA/Examen de Física Setembre 2021 __ Selecat.cat.pdf",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
     "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/3. Labor legislatiu.md",
-    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2.1.1. Estatut d'autonomia de Catalunya.md",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
     "Història/La Guerra Civil/Notes/Untitled.canvas",
