@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "9b0e1c30f942b0e9",
+    "id": "674f0984dbc30812",
     "type": "split",
     "children": [
       {
-        "id": "ff3c24a22d1ea1ba",
+        "id": "96494fd6b2ebbf32",
         "type": "tabs",
         "children": [
           {
-            "id": "747ca7a38b02bec4",
+            "id": "4020cc6e25de995a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/La Segunda Republica/La 2ª República.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5d8971d464b0aa01",
+    "id": "f6a7c5cbd68040b4",
     "type": "split",
     "children": [
       {
-        "id": "408976ef29294f6a",
+        "id": "0b1d928f769835aa",
         "type": "tabs",
         "children": [
           {
-            "id": "48c8e6d87200d794",
+            "id": "bedaacb2c7f3468d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "9944563b117df7e9",
+            "id": "9b357460a6470f85",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "332289f1e8ec5b00",
+            "id": "1ef20c6b6d1a7998",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,7 +62,17 @@
             }
           },
           {
-            "id": "cef77ea80f210319",
+            "id": "e6f5812033a76d2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6dec41507bb82c8",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -74,27 +80,26 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 300
   },
   "right": {
-    "id": "9e418adaf140c785",
+    "id": "502d0046f0b071c5",
     "type": "split",
     "children": [
       {
-        "id": "27390cc4a92705bf",
+        "id": "454ad66801703299",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2b54157f08ced7",
+            "id": "c128a532f83f78ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/La Segunda Republica/La 2ª República.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +111,18 @@
             }
           },
           {
-            "id": "0af02d39f38d6dd8",
+            "id": "22a03834854c98af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/La Segunda Republica/La 2ª República.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9dba9ea64e91402d",
+            "id": "9f681d907309c569",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,25 +133,14 @@
             }
           },
           {
-            "id": "ed0fa3982ed3b4a7",
+            "id": "a1c8df943944f659",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Història/La Segunda Republica/La 2ª República.md"
-              }
-            }
-          },
-          {
-            "id": "4488945fd3c2d35e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,61 +149,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "747ca7a38b02bec4",
+  "active": "4020cc6e25de995a",
   "lastOpenFiles": [
-    "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
-    "Història/La Segunda Republica/D-D/06.02.23.md",
-    "Història/La Segunda Republica/D-D/D-D.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
-    "Història/La Segunda Republica/La 2ª República.md",
-    "Història/La Segunda Republica/.md",
-    "Història/La Segunda Republica/1. Bienni Progressista/5. Incident de Casas Viejas.md",
-    "Templates/Timeline-block.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1.2. Pacte de Sant Sebastià.md",
-    "Templates/Timeline.md",
-    "Untitled 1.md",
     "Untitled.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/3. Proclamació de la II República.md",
-    "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
-    "Història/El franquisme/P2 T11P2 T11.md",
-    "Història/Tema 6 y 8/Dictablanda.md",
-    "Història/La Segunda Republica/La II República.canvas",
-    "Història/La Guerra Civil/La Guerra Civil.canvas",
-    "Història/La Guerra Civil/Notes/Notes.md",
-    "Castellano/Untitled Kanban.md",
-    "Asignatures/Castellano/Castellano_archv/U3/U3.md",
-    "Asignatures/Castellano/Castellano_archv/U4/U4.md",
-    "Asignatures/Castellano/Castellano_archv/U5/U5.md",
-    "Asignatures/Asignatures.md",
-    "0. Asignaturas/0. Asignaturas.md",
-    "Història/El franquisme/Untitled.md",
+    "Untitled 1.md",
+    "Templates/Timeline.md",
+    "Templates/Timeline-block.md",
     "Templates",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2022 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2021 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2020 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2019 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2021 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2020 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2019 __ Selecat.cat.pdf",
     "PDF'S SELE/FISICA/Examen de Física Setembre 2022 __ Selecat.cat.pdf",
     "PDF'S SELE/FISICA/Examen de Física Setembre 2021 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Setembre 2020 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Setembre 2019 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Juny 2022 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Juny 2021 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Juny 2020 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Juny 2019 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2021 __ Selecat.cat.pdf",
+    "Mates/Untitled.md",
+    "Inglés/Writings/Solomon Northup.md",
+    "Inglés/Writings/Solomon Northup - A description of a person (notes).md",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/3. Labor legislatiu.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2.1.1. Estatut d'autonomia de Catalunya.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/01. Govern Provisional.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2. Eleccions constituyents.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2.1. Constitució de 1931.md",
+    "Història/Tema 6 y 8/DD/30.01.23.md",
+    "Història/Tema 6 y 8/DD/26.01.23 dictablanda ver. libro.md",
+    "Història/Tema 6 y 8/DD/24.01.23.md",
+    "Història/Tema 6 y 8/DD/23.01.23.md",
+    "Història/Tema 6 y 8/DD/19.01.23.md",
+    "Història/Tema 6 y 8/DD/17.01.23.md",
+    "Història/La Segunda Republica/D-D/Transcripción video.md",
+    "Història/La Segunda Republica/D-D/D-D.md",
+    "Història/La Segunda Republica/D-D/2ª Republica.md",
+    "Història/La Segunda Republica/D-D/27.02.23.md",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
+    "Història/La Segunda Republica/D-D/23.01.23.md",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
+    "Història/La Segunda Republica/D-D/21.02.2023.md",
+    "Història/La Segunda Republica/D-D/16. feb.md",
+    "Història/La Segunda Republica/D-D/13.02.2023.md",
     "Història/La Guerra Civil/Notes/Untitled.canvas",
     "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
     "Història/Tema 6 y 8/Reinado de Alfonso XIII.canvas",
+    "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647.jpg",
