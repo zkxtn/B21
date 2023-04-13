@@ -137,13 +137,21 @@
                 "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md"
               }
             }
+          },
+          {
+            "id": "4488945fd3c2d35e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
