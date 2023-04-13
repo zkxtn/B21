@@ -8,7 +8,7 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
@@ -16,7 +16,7 @@
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
   "activeView": "root",
-  "hideFrontmatter": false,
+  "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
@@ -30,7 +30,7 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
-  "folderNoteDefaultView": true,
+  "folderNoteDefaultView": false,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
@@ -58,7 +58,8 @@
       "Història",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica",
-      "Història/La Segunda Republica/0. Dictablanda + Inici"
+      "Història/La Segunda Republica/0. Dictablanda + Inici",
+      "CMC/U3"
     ]
   },
   "expandedSpaces": [
@@ -95,6 +96,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681418179149,
+  "spacesAutoBackupLast": 1681420052493,
   "spacesUseAlias": true
 }
