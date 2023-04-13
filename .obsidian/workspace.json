@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "96e35318735f494c",
+        "id": "e3e3e21af7b9f55b",
         "type": "tabs",
         "children": [
           {
-            "id": "33a6a9e474299376",
+            "id": "1702c14b1721558e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a6a9e474299376",
+  "active": "1702c14b1721558e",
   "lastOpenFiles": [
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1.2. Pacte de Sant Sebastià.md",
+    "Història/Tema 6 y 8/Dictablanda.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/1.2. Pacte de Sant Sebastià.md",
     "Història/La Segunda Republica/Untitled.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
@@ -204,7 +197,6 @@
     "Història/Tema 6 y 8/DD/17.01.23.md",
     "Història/La Segunda Republica/D-D/Transcripción video.md",
     "Història/La Segunda Republica/D-D/2ª Republica.md",
-    "Història/La Segunda Republica/D-D/27.02.23.md",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
     "Història/La Guerra Civil/Notes/Untitled.canvas",
