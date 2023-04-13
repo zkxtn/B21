@@ -52,6 +52,7 @@
       "Història/La Guerra Civil/Notes",
       "Història/La Segunda Republica",
       "Història/La Segunda Republica",
+      "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica/0. Dictablanda + Inici"
     ]
   },
@@ -89,6 +90,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681411044784,
+  "spacesAutoBackupLast": 1681413709325,
   "spacesUseAlias": false
 }

@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "9b0e1c30f942b0e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5fe55bb9ccaaea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab73696cb04a5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d8971d464b0aa01",
+    "type": "split",
+    "children": [
+      {
+        "id": "408976ef29294f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c8e6d87200d794",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9944563b117df7e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "332289f1e8ec5b00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bfbe1908e5d2bb2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "9e418adaf140c785",
+    "type": "split",
+    "children": [
+      {
+        "id": "27390cc4a92705bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b2b54157f08ced7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0af02d39f38d6dd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dba9ea64e91402d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed0fa3982ed3b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "4488945fd3c2d35e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "floating": {
+    "id": "6ff2ccc9bc1b5dd6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3d9cf6f8f3867e06",
+        "type": "window",
+        "children": [
+          {
+            "id": "b4e0305e2185403e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1702c14b1721558e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Timeline.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c054beff5d80b0a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 683,
+        "height": 768,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c054beff5d80b0a8",
+  "lastOpenFiles": [
+    "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
+    "Untitled.md",
+    "Templates/Timeline.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/3. Proclamació de la II República.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/1.2. Pacte de Sant Sebastià.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
+    "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
+    "Història/El franquisme/P2 T11P2 T11.md",
+    "Història/Tema 6 y 8/Dictablanda.md",
+    "Història/La Segunda Republica/Untitled.md",
+    "Història/La Segunda Republica/La II República.canvas",
+    "Història/La Guerra Civil/La Guerra Civil.canvas",
+    "Història/La Guerra Civil/Notes/Notes.md",
+    "Castellano/Untitled Kanban.md",
+    "Asignatures/Castellano/Castellano_archv/U3/U3.md",
+    "Asignatures/Castellano/Castellano_archv/U4/U4.md",
+    "Asignatures/Castellano/Castellano_archv/U5/U5.md",
+    "Asignatures/Asignatures.md",
+    "0. Asignaturas/0. Asignaturas.md",
+    "Història/El franquisme/Untitled.md",
+    "Templates",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2022 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2021 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2020 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2019 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2021 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2020 __ Selecat.cat.pdf",
+    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2019 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Setembre 2022 __ Selecat.cat.pdf",
+    "PDF'S SELE/FISICA/Examen de Física Setembre 2021 __ Selecat.cat.pdf",
+    "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/3. Labor legislatiu.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2.1.1. Estatut d'autonomia de Catalunya.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2.1. Constitució de 1931.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2. Eleccions constituyents.md",
+    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/01. Govern Provisional.md",
+    "Història/Tema 6 y 8/DD/30.01.23.md",
+    "Història/Tema 6 y 8/DD/26.01.23 dictablanda ver. libro.md",
+    "Història/La Segunda Republica/D-D/27.02.23.canvas",
+    "Història/La Segunda Republica/D-D/23.01.23.canvas",
+    "Història/La Guerra Civil/Notes/Untitled.canvas",
+    "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
+    "Història/Tema 6 y 8/Reinado de Alfonso XIII.canvas",
+    "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
+    "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
+    "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647.jpg",
+    "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647 1.jpg",
+    "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134334.png",
+    "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134325.png",
+    "Castellano/0. Glosario/Adjetivo/3. Conceptos adjetivo/Attachments/Pasted image 20230216184134.png",
+    "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas",
+    "Castellano/0. Glosario/Adjetivo/Attachments/Pasted image 20230216184109.png",
+    "Castellano/Attachments/Pasted image 20230216211811.png"
+  ]
+}
