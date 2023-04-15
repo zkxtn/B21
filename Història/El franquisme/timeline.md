@@ -1,6 +1,7 @@
 ---
 tags: timeline
 ---
+# Franquisme
 ```timeline
-Història;
+Història; 
 ```
