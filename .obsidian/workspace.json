@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -176,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 738
+    "width": 738,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "747ca7a38b02bec4",
+  "active": "4488945fd3c2d35e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
