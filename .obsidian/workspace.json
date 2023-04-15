@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
-                "mode": "preview",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,24 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Timeline-block.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4c666b680cc91575",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5e2abc9f908ebd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md"
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md"
               }
             }
           },
@@ -182,19 +164,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/timeline.md",
+                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 293,
-    "collapsed": true
+    "width": 738
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,9 +188,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5e2abc9f908ebd0",
+  "active": "4488945fd3c2d35e",
   "lastOpenFiles": [
-    "Història/El franquisme/timeline.md",
+    "Història/El franquisme/Untitled.canvas",
+    "Història/El franquisme/Franquisme - timeline.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Templates/Timeline-block.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
