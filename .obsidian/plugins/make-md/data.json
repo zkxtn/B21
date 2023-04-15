@@ -50,16 +50,22 @@
       "Història/La Guerra Civil/Notes",
       "Història/La Guerra Civil/Notes",
       "Història/La Guerra Civil/Notes",
-      "Història/La Segunda Republica",
-      "Història/La Segunda Republica",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional",
       "Història",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
-      "Història/La Segunda Republica",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
-      "CMC/U3"
+      "CMC/U3",
+      "Història/El franquisme",
+      "Història/El franquisme",
+      "Història/El franquisme/Dates",
+      "Història/El franquisme",
+      "Història/El franquisme/Dates",
+      "Història/Historia con la lidia",
+      "Història/El franquisme/Dates",
+      "Història/El franquisme/Dates",
+      "Història/El franquisme"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +93,7 @@
   ],
   "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
@@ -96,6 +102,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681420052493,
+  "spacesAutoBackupLast": 1681578106557,
   "spacesUseAlias": true
 }

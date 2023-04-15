@@ -1,4 +1,8 @@
+---
+tag: timeline, Transició, Història
+---
 # 1. Introducció (Guerra C. + Postguerra)
+___
 La fi de [[La Guerra Civil|la Guerra Civil]] i la victòria del generalíssim **Francisco Franco** van donar pas a una nova etapa política: una dictadura, coneguda com a franquisme. Aquest nou règim polític, es va començar a instaurar durant la guerra en els territoris conquerits pel bàndol nacional, en ells establia una estructurar política jerarquitzada controlada per Franco caracteritzada per:
 - L'abolició de la legalitat republicana a la totalitat del territori espanyol.
 - El posicionament de Franco a màxim dirigent
@@ -38,7 +42,7 @@ La unica manera d'accedir a càrrecs polítics durant el règim franquista era f
 
 ### 2.1.2 Govern totalitari
 L'estructura política del règim es caracteritzava per la seva falta de divisió dels poder, els quals d'una manera o d'una controlava Franco en la seva totalitat.
-- **Poder legislatiu**: era a càrrec de les **Cortes Españolas**, creades per Franco el 1942. Aquestes eren formades per procuradors, escollits principalment per Franco o per associació i pertinença al seu partit polític; els quals s'encarregaven de proposar i votar lleis, que podien estar vetades pel dictador.
+- **Poder legislatiu**: era a càrrec de les **Cortes Españolas**, creades per Franco el *1942*. Aquestes eren formades per procuradors, escollits principalment per Franco o per associació i pertinença al seu partit polític; els quals s'encarregaven de proposar i votar lleis, que podien estar vetades pel dictador.
 - **Poder executiu**: era càrrec del cap de govern, per tant de Franco.
 - **Poder judicial**: era càrrec del **Tribunal Suprem**, escollit per Franco.
 
@@ -56,6 +60,22 @@ Entre les principals lleis establertes durant el règim franquista, cal destacar
 	- Franco va sotmetre aquesta llei a referèndum entre la població el juliol de 1947. Aquesta consulta popular va estar totalment manipulada pel poder que va coaccionar tant la participació en ella com el resultat de la mateixa.
 - **1958, *Ley de Principios Fundamentales del Movimiento Nacional***. Document que ratificava les bases polítiques del règim.
 	- Establia que la participació política passava per la familia, el municipi i el sindicat, i disposava que aquest principis eren permanents i inalterables.
+___
+<span
+class='ob-timelines' 
+data-date='1938-00-00-00' 
+data-title="Fuero del Trabajo"
+data-class="purple" 
+data-type='box' >
+</span>
+<span
+class='ob-timelines' 
+data-date='1938-00-00-00' 
+data-title="Fuero del Trabajo"
+data-class="purple" 
+data-type='box' >
+</span>
+___
 
 ## 2.3 Repressió
 Després del venciment de la Guerra Civil, Franco es va focalitzar el la repressió de tots els seus contraris. L'objectiu de la dictadura era sotmetre els derrotats i aniquilar la menor discrepància.
@@ -219,6 +239,17 @@ L'anticomunisme de Franco va afavorir el reconeixement internacional del seu rè
 # 6. L'autarquia
 El **1939** Franco pren la decisió de basar la política econòmica de l'estat en l'**autarquia** amb l'objectiu d'obtindre l'*autosuficiència econòmica d'Espanya*.
 A conseqüència d'aquesta decisió la posada en marxa de l'economia va ser lentíssima i plena d'entrebancs.
+
+---
+<span
+class='ob-timelines' 
+data-date='1939-00-00-00' 
+data-title="Declaració de l'estat d'autarquia" 
+data-class='orange' 
+data-type='box' > Franco pren la decisió de basar la política econòmica de l'estat en l'**autarquia** amb l'objectiu d'obtindre l'*autosuficiència econòmica d'Espanya*
+</span>
+---
+
 
 ## 6.1 Política econòmica
 

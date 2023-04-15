@@ -20,7 +20,7 @@
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": false,
   "anuppuccin-theme-settings@@anp-print": true,
-  "anuppuccin-theme-settings@@anp-inline-title-vis": "none",
+  "anuppuccin-theme-settings@@anp-inline-title-vis": "block",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
   "anuppuccin-theme-settings@@anp-toggle-metadata": true
 }
