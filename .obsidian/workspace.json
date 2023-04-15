@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+                "file": "Templates/Timeline-block.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/timeline.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/timeline.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/timeline.md"
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md"
               }
             }
           },
@@ -190,30 +189,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f606cc98ee40792c",
+  "active": "747ca7a38b02bec4",
   "lastOpenFiles": [
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
-    "Història/El franquisme/timeline.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/2. Política franquista.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
+    "Història/El franquisme/timeline.md",
+    "Templates/Timeline-block.md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+    "Història/El franquisme/fechas.md",
+    "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
+    "Història/La Segunda Republica/La 2ª República.md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/2. Política franquista.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/7. Franquisme a Catalunya.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
-    "Història/El franquisme/fechas.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista",
     "Història/El franquisme/Dates/Fechas.md",
     "Història/El franquisme/P2 T11P2 T11.md",
-    "Templates/Timeline-block.md",
     "Història/El franquisme/El franquisme.md",
     "Història/El franquisme/Dates/Dates.md",
     "Història/El franquisme/Dates",
     "Història/El franquisme/Dates for timeline.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
-    "Història/La Segunda Republica/La 2ª República.md",
     "CMC/U3/U3.md",
     "CMC/CMC.md",
     "Història/La Segunda Republica/D-D/06.02.23.md",

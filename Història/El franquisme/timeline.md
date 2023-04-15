@@ -2,5 +2,5 @@
 tags: timeline
 ---
 ```timeline
-Transició
+Història; 
 ```
