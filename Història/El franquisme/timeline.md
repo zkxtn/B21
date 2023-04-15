@@ -1,6 +1,6 @@
 ---
 tags: timeline
 ---
-```timeline-vis
-Història; 
+```timeline
+Història
 ```
