@@ -6,7 +6,7 @@
       {
         "id": "817bfebc3128f356",
         "type": "tabs",
-        "dimension": 44.95614035087719,
+        "dimension": 60.85526315789473,
         "children": [
           {
             "id": "747ca7a38b02bec4",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Timeline-block.md",
+                "file": "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "ff3c24a22d1ea1ba",
         "type": "tabs",
-        "dimension": 55.04385964912281,
+        "dimension": 39.14473684210527,
         "children": [
           {
             "id": "8210c6d04c9a8a7a",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
+                "file": "Història/El franquisme/Dates/Fechas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 276
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Timeline-block.md",
+                "file": "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Timeline-block.md",
+                "file": "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Timeline-block.md"
+                "file": "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md"
               }
             }
           },
@@ -189,10 +189,11 @@
   "lastOpenFiles": [
     "Història/El franquisme/Dates/Fechas.md",
     "Història/El franquisme/La postguerra i la construcció de l'estat franquista.md",
+    "Història/El franquisme/P2 T11P2 T11.md",
+    "Història/El franquisme/timeline.md",
     "Templates/Timeline-block.md",
     "Història/El franquisme/El franquisme.md",
     "Història/El franquisme/Dates/Dates.md",
-    "Història/El franquisme/Untitled.md",
     "Història/El franquisme/Dates",
     "Història/El franquisme/Dates for timeline.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
@@ -211,7 +212,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/3. Proclamació de la II República.md",
-    "Història/El franquisme/P2 T11P2 T11.md",
     "Història/Tema 6 y 8/Dictablanda.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",

@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "timelines",
     "extended-colorschemes",
-    "custom-rainbow-colors"
+    "custom-rainbow-colors",
+    "timelines"
   ],
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 20
 }

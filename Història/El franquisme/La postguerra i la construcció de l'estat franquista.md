@@ -61,6 +61,7 @@ Entre les principals lleis establertes durant el règim franquista, cal destacar
 - **1958, *Ley de Principios Fundamentales del Movimiento Nacional***. Document que ratificava les bases polítiques del règim.
 	- Establia que la participació política passava per la familia, el municipi i el sindicat, i disposava que aquest principis eren permanents i inalterables.
 
+
 ## 2.3 Repressió
 Després del venciment de la Guerra Civil, Franco es va focalitzar el la repressió de tots els seus contraris. L'objectiu de la dictadura era sotmetre els derrotats i aniquilar la menor discrepància.
 
@@ -322,3 +323,71 @@ A finals dels quaranta es va intentar obrir algún espai per difondre la cultura
 - **Desde 1951**, La **Nit de Santa Llúcia**, primers premis literaris.
 - La Coral Sant Jordi (1951)
 - L'Agrupació Dramàtica Barcelona (1955)
+
+___
+
+<span
+
+class='ob-timelines'
+
+data-date='1938-00-00-00'
+
+data-title="Fuero del Trabajo"
+
+data-class="purple"
+
+data-type='box' >
+
+</span>
+
+___
+
+<span
+
+class='ob-timelines'
+
+data-date='1938-00-00-00'
+
+data-title="Ley de Prensa"
+
+data-class="purple"
+
+data-type='box' >
+
+</span>
+
+___
+
+<span
+
+class='ob-timelines'
+
+data-date='1939-00-00-00'
+
+data-title="Ley de Responsabilidades Políticas"
+
+data-class="purple"
+
+data-type='box' > Llei que deixa fora de la legalitat a totes les persones que activitats polítiques dels partits i les institucions democràtiques durant la República.
+
+</span>
+
+___
+
+<span
+
+class='ob-timelines'
+
+data-date='1940-00-00-00'
+
+data-title="Ley de Represaión de la Masonería y el Comunismo"
+
+data-class="purple"
+
+data-type='box' >
+
+</span>
+
+___
+
+___

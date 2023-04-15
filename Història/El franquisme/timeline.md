@@ -1,0 +1,6 @@
+---
+tags: timeline
+---
+```timeline
+Transició
+```

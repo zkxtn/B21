@@ -64,6 +64,7 @@
       "Història/El franquisme/Dates",
       "Història/El franquisme/Dates",
       "Història/El franquisme/Dates",
+      "Història/El franquisme",
       "Història/El franquisme"
     ]
   },
@@ -101,6 +102,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681578106557,
+  "spacesAutoBackupLast": 1681579094666,
   "spacesUseAlias": true
 }

@@ -1,3 +1,7 @@
+---
+tags: història, timeline, transició
+---
+___
 <span
 class='ob-timelines' 
 data-date='1938-00-00-00' 
@@ -67,7 +71,7 @@ ___
 <span
 class='ob-timelines' 
 data-date='1958-00-00-00' 
-data-title="Ley de Pincipios Fundamntales del Movimiento Nacional"
+data-title="Ley de Pincipios Fundamentales del Movimiento Nacional"
 data-class="purple" 
 data-type='box' > Document que ratificava les bases polítiques del règim.
 	- Establia que la participació política passava per la familia, el municipi i el sindicat, i disposava que aquest principis eren permanents i inalterables.
