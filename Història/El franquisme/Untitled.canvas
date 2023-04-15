@@ -1,18 +1,20 @@
 {
 	"nodes":[
-		{"id":"a4ab843f4e725d2e","x":-160,"y":0,"width":3110,"height":2520,"type":"group","label":"Franquisme"},
-		{"id":"6acde6ea91d917c3","x":-940,"y":-15,"width":719,"height":400,"color":"1","type":"file","file":"Història/El franquisme/Franquisme - timeline.md"},
-		{"id":"fe790d0a2882287f","x":1195,"y":820,"width":400,"height":400,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md"},
-		{"id":"11ceff750b737228","x":1640,"y":820,"width":400,"height":400,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional.md"},
-		{"id":"2e303a340f564982","x":2085,"y":820,"width":400,"height":400,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia.md"},
-		{"id":"0bd77a71d34725df","x":2530,"y":820,"width":400,"height":400,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/7. Franquisme a Catalunya.md"},
-		{"id":"627035f9419e918f","x":1395,"y":20,"width":509,"height":440,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md"},
-		{"id":"8d5aaa45c9bb87af","x":750,"y":820,"width":400,"height":400,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md"},
-		{"id":"379c9d43d26fdf0c","x":305,"y":820,"width":400,"height":400,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/2. Política franquista.md"},
-		{"id":"38a4d2e14f9c1870","x":-140,"y":820,"width":400,"height":440,"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md"},
-		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md","id":"39615671252039b0","x":-140,"y":1320,"width":400,"height":900,"subpath":"#1.1 Franco"},
-		{"id":"1254ab928d094d11","x":-460,"y":1600,"width":260,"height":440,"type":"text","text":"- **Generalísimo de las Fuerzas Nacionales de Tierra, Mar y Aire**\n- **Cap de govern**, que seguidament va ser entitulat **cap d'Estat.**\n- **Cap de la Falange Española Tradicionalista y de las Juntas Ofensivas Nacional Socialistas?**, l'únic partit polític i la base política del Movimiento Nacional."},
-		{"id":"3605bfbc558dc4a4","x":-450,"y":2080,"width":250,"height":60,"type":"text","text":"### Ideals\n- **Ordre**\n- **Autoritat**\n"}
+		{"type":"group","id":"a4ab843f4e725d2e","x":-1360,"y":0,"width":4310,"height":2520,"label":"Franquisme"},
+		{"type":"group","id":"d88aff90ea5649a9","x":-920,"y":1520,"width":720,"height":802,"color":"5","label":"Franco"},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md","id":"fe790d0a2882287f","x":1195,"y":820,"width":400,"height":400},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md","id":"627035f9419e918f","x":1395,"y":20,"width":509,"height":440},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional.md","id":"11ceff750b737228","x":1640,"y":820,"width":400,"height":400},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia.md","id":"2e303a340f564982","x":2085,"y":820,"width":400,"height":400},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md","id":"8d5aaa45c9bb87af","x":750,"y":820,"width":400,"height":400},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/2. Política franquista.md","id":"379c9d43d26fdf0c","x":305,"y":820,"width":400,"height":400},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/7. Franquisme a Catalunya.md","id":"0bd77a71d34725df","x":2530,"y":820,"width":400,"height":400},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md","id":"38a4d2e14f9c1870","x":-140,"y":820,"width":400,"height":440},
+		{"type":"file","file":"Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md","id":"ccea59a9b09a4366","x":-162,"y":1540,"width":445,"height":381,"subpath":"#1.2 Enemics"},
+		{"type":"text","text":"# Franco\n- **Generalísimo de las Fuerzas Nacionales de Tierra, Mar y Aire**\n- **Cap de govern**, que seguidament va ser entitulat **cap d'Estat.**\n- **Cap de la Falange Española Tradicionalista y de las Juntas Ofensivas Nacional Socialistas?**, l'únic partit polític i la base política del Movimiento Nacional.","id":"1254ab928d094d11","x":-900,"y":1540,"width":331,"height":440},
+		{"type":"text","text":"## Pla de govern\nEl seu programa de govern es centrava en:\n- La unitat d'Espanya\n- La necessitat d'un govern fort\n- La necessitat de polítiques d'abast \"nacional\"\n- Imposar el paper preeminent de l'exèrcit en tots els àmbits de la vida nacional.","id":"bc3e9f10d989e40f","x":-549,"y":1609,"width":329,"height":371},
+		{"type":"text","text":"### Ideals\n- **Ordre**\n- **Autoritat**\nA més:\n- L'**exèrcit tenia l'obligació de garantir la unitat de la pàtria i la fortalesa de la nació.** \n- Ell sempre es va guiar per la lògica i els principis de la instrucció militar, que ell mateix va passar.","id":"3605bfbc558dc4a4","x":-900,"y":2002,"width":680,"height":300},
+		{"type":"file","file":"Història/El franquisme/Franquisme - timeline.md","id":"6acde6ea91d917c3","x":-1259,"y":60,"width":719,"height":1200,"color":"1"}
 	],
 	"edges":[
 		{"id":"6e3b332e11083e65","fromNode":"627035f9419e918f","fromSide":"bottom","toNode":"38a4d2e14f9c1870","toSide":"top"},
@@ -21,6 +23,8 @@
 		{"id":"2eacca7208cc9e97","fromNode":"627035f9419e918f","fromSide":"bottom","toNode":"fe790d0a2882287f","toSide":"top"},
 		{"id":"b6402f944d3ddbd7","fromNode":"627035f9419e918f","fromSide":"bottom","toNode":"11ceff750b737228","toSide":"top"},
 		{"id":"4be26922f483064b","fromNode":"627035f9419e918f","fromSide":"bottom","toNode":"2e303a340f564982","toSide":"top"},
-		{"id":"090f18c101ba0bc8","fromNode":"627035f9419e918f","fromSide":"bottom","toNode":"0bd77a71d34725df","toSide":"top"}
+		{"id":"090f18c101ba0bc8","fromNode":"627035f9419e918f","fromSide":"bottom","toNode":"0bd77a71d34725df","toSide":"top"},
+		{"id":"18c7ff024f15c4d2","fromNode":"38a4d2e14f9c1870","fromSide":"bottom","toNode":"d88aff90ea5649a9","toSide":"top"},
+		{"id":"d23355bee0d05e15","fromNode":"38a4d2e14f9c1870","fromSide":"bottom","toNode":"ccea59a9b09a4366","toSide":"top"}
 	]
 }

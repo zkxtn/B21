@@ -11,11 +11,14 @@
             "id": "747ca7a38b02bec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
-                "mode": "source",
-                "source": false
+                "file": "Història/El franquisme/Untitled.canvas",
+                "viewState": {
+                  "x": -117.08909649275041,
+                  "y": 1026.3362237629772,
+                  "zoom": -1.3335903990211129
+                }
               }
             }
           },
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md"
+                "file": "Història/El franquisme/Franquisme - timeline.md"
               }
             }
           },
@@ -175,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 738,
-    "collapsed": true
+    "width": 738
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +191,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4488945fd3c2d35e",
+  "active": "747ca7a38b02bec4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
     "Història/El franquisme/Untitled.canvas",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+    "conflict-files-obsidian-git.md",
     "Història/El franquisme/Franquisme - timeline.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Templates/Timeline-block.md",
@@ -219,7 +221,6 @@
     "CMC/CMC.md",
     "Història/La Segunda Republica/D-D/06.02.23.md",
     "Història/La Segunda Republica/D-D/D-D.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1. Dictablanda.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Templates",
