@@ -60,22 +60,6 @@ Entre les principals lleis establertes durant el règim franquista, cal destacar
 	- Franco va sotmetre aquesta llei a referèndum entre la població el juliol de 1947. Aquesta consulta popular va estar totalment manipulada pel poder que va coaccionar tant la participació en ella com el resultat de la mateixa.
 - **1958, *Ley de Principios Fundamentales del Movimiento Nacional***. Document que ratificava les bases polítiques del règim.
 	- Establia que la participació política passava per la familia, el municipi i el sindicat, i disposava que aquest principis eren permanents i inalterables.
-___
-<span
-class='ob-timelines' 
-data-date='1938-00-00-00' 
-data-title="Fuero del Trabajo"
-data-class="purple" 
-data-type='box' >
-</span>
-<span
-class='ob-timelines' 
-data-date='1938-00-00-00' 
-data-title="Fuero del Trabajo"
-data-class="purple" 
-data-type='box' >
-</span>
-___
 
 ## 2.3 Repressió
 Després del venciment de la Guerra Civil, Franco es va focalitzar el la repressió de tots els seus contraris. L'objectiu de la dictadura era sotmetre els derrotats i aniquilar la menor discrepància.

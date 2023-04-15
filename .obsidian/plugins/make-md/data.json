@@ -62,7 +62,6 @@
       "Història/El franquisme/Dates",
       "Història/El franquisme",
       "Història/El franquisme/Dates",
-      "Història/Historia con la lidia",
       "Història/El franquisme/Dates",
       "Història/El franquisme/Dates",
       "Història/El franquisme"
@@ -93,7 +92,7 @@
   ],
   "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": false,
+  "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
