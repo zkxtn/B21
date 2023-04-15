@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "22231e48b77b1643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef107afad4096d38",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md"
               }
             }
           },
@@ -202,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22231e48b77b1643",
+  "active": "747ca7a38b02bec4",
   "lastOpenFiles": [
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
     "conflict-files-obsidian-git.md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
     "Història/El franquisme/Untitled.canvas",
     "Història/El franquisme/Franquisme - timeline.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
