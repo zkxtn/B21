@@ -66,8 +66,7 @@
       "Història/El franquisme/Dates",
       "Història/El franquisme",
       "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme/La postguerra i la construcció del règim franquista"
+      "Història/El franquisme"
     ]
   },
   "expandedSpaces": [
@@ -104,6 +103,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681581321668,
+  "spacesAutoBackupLast": 1681581843969,
   "spacesUseAlias": true
 }

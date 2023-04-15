@@ -76,4 +76,4 @@ data-type='box' > Document que ratificava les bases polítiques del règim.
 </span>
 ___
 ___
-Vegisi també: [[La postguerra i la construcció de l'estat franquista]]
+Vegisi també: [[La postguerra i la construcció del règim franquista]]
