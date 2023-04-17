@@ -13,13 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "6b8b5a2fae4a6d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f48c51daf6b1a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38650a1d3df13c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Història/El franquisme/Franquisme - timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 277,
+    "collapsed": true
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -93,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md",
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md"
+                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md"
               }
             }
           },
@@ -144,25 +176,14 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "f606cc98ee40792c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/El franquisme/Franquisme - timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 684
+    "width": 684,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +199,14 @@
   "active": "88640b73bde35386",
   "lastOpenFiles": [
     "Història/El franquisme/Franquisme - timeline.md",
-    "Història/El franquisme/Untitled.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1945 - 1953).md",
-    "Història/El franquisme/Untitled.canvas",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
+    "Història/Attachments/Franco+Hitler,Hendaia 1940.png",
+    "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+    "Història/El franquisme/El franquisme.md",
+    "Història/El franquisme/Untitled.md",
+    "Història/El franquisme/Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Templates/Timeline-block.md",
@@ -192,11 +217,9 @@
     "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
     "Història/La Segunda Republica/La 2ª República.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/7. Franquisme a Catalunya.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista",
     "Història/El franquisme/Dates/Fechas.md",
     "Història/El franquisme/P2 T11P2 T11.md",
-    "Història/El franquisme/El franquisme.md",
     "Història/El franquisme/Dates/Dates.md",
     "Història/El franquisme/Dates",
     "Història/El franquisme/Dates for timeline.md",
@@ -205,7 +228,6 @@
     "CMC/U3/U3.md",
     "CMC/CMC.md",
     "Història/La Segunda Republica/D-D/06.02.23.md",
-    "Història/La Segunda Republica/D-D/D-D.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Templates",
@@ -222,7 +244,6 @@
     "Història/La Guerra Civil/Notes/Untitled.canvas",
     "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
     "Història/Tema 6 y 8/Reinado de Alfonso XIII.canvas",
-    "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647 1.jpg",
@@ -230,7 +251,6 @@
     "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134325.png",
     "Castellano/0. Glosario/Adjetivo/3. Conceptos adjetivo/Attachments/Pasted image 20230216184134.png",
     "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas",
-    "Castellano/0. Glosario/Adjetivo/Attachments/Pasted image 20230216184109.png",
-    "Castellano/Attachments/Pasted image 20230216211811.png"
+    "Castellano/0. Glosario/Adjetivo/Attachments/Pasted image 20230216184109.png"
   ]
 }
