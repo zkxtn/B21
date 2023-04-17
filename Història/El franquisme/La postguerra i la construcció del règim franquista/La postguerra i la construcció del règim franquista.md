@@ -6,6 +6,6 @@ tag: timeline, Transició, Història
 [[3. Resistència i oposició]]
 [[4. L'Església i l'estat franquista]]
 [[5. Context Internacional]]
-[[6. L'autarquia]]
+[[6. L'autarquia (1945 - 1953)]]
 [[7. Franquisme a Catalunya]]
 [[fechas]]
