@@ -38,6 +38,8 @@
     "/": [
       "Història",
       "Història/El franquisme",
+      "Història",
+      "Història/El franquisme",
       "Història"
     ]
   },
@@ -75,6 +77,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681807495139,
+  "spacesAutoBackupLast": 1681807873687,
   "spacesUseAlias": true
 }

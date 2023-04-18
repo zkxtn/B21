@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md",
+                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md",
+                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md",
+                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/El franquisme.md"
+                "file": "Història/El franquisme/Franquisme - timeline.md"
               }
             }
           },
@@ -166,11 +166,18 @@
   },
   "active": "9f48c51daf6b1a9b",
   "lastOpenFiles": [
+    "Història/El franquisme/El franquisme.md",
+    "Història/El franquisme/Untitled.canvas",
+    "Història/El franquisme/Franquisme - timeline.md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
+    "Història/Attachments/Autarquia.jpg",
+    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 2.avif",
+    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 1.avif",
+    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4.avif",
+    "Història/Attachments/Bandera franquista.jpg",
     "Història/El franquisme/context.mdb",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
-    "Història/El franquisme/Franquisme - timeline.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
     "Història/El franquisme/Vida durant la AutarquiaVida durant la AutarquiaVida durant la Autarquia.md",
     "Història/El franquisme/.md",
@@ -181,8 +188,6 @@
     "Història/El franquisme/Dates",
     "Història/Attachments/Franco+Hitler,Hendaia 1940.png",
     "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
-    "Història/El franquisme/El franquisme.md",
-    "Història/El franquisme/Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Templates/Timeline-block.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
@@ -203,10 +208,6 @@
     "Templates",
     "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2022 __ Selecat.cat.pdf",
     "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2021 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2020 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2019 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2021 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Juny 2020 __ Selecat.cat.pdf",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
@@ -218,8 +219,6 @@
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647 1.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134334.png",
     "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134325.png",
-    "Castellano/0. Glosario/Adjetivo/3. Conceptos adjetivo/Attachments/Pasted image 20230216184134.png",
-    "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas",
-    "Castellano/0. Glosario/Adjetivo/Attachments/Pasted image 20230216184109.png"
+    "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas"
   ]
 }
