@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+                "file": "Història/El franquisme/El franquisme.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+                "file": "Història/El franquisme/El franquisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+                "file": "Història/El franquisme/El franquisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md"
+                "file": "Història/El franquisme/El franquisme.md"
               }
             }
           },
@@ -167,8 +166,9 @@
   },
   "active": "9f48c51daf6b1a9b",
   "lastOpenFiles": [
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
+    "Història/El franquisme/context.mdb",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
     "Història/El franquisme/Franquisme - timeline.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
@@ -198,7 +198,6 @@
     "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
     "CMC/U3/U3.md",
-    "CMC/CMC.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Templates",

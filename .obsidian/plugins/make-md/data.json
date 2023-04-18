@@ -36,35 +36,9 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Història/El franquisme",
-      "Templates",
-      "0. Asignaturas",
-      "Asignatures",
-      "Asignatures/Castellano",
-      "Asignatures/Castellano/Castellano_archv",
-      "Asignatures/Castellano/Castellano_archv/U5",
-      "Asignatures/Castellano/Castellano_archv/U4",
-      "Asignatures/Castellano/Castellano_archv/U3",
-      "Asignatures",
       "Història",
-      "Història/La Guerra Civil/Notes",
-      "Història/La Guerra Civil/Notes",
-      "Història/La Guerra Civil/Notes",
-      "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional",
-      "Història",
-      "CMC/U3",
       "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme",
-      "Història/El franquisme/Dates",
-      "Història/El franquisme/La postguerra i la construcció del règim franquista"
+      "Història"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +61,7 @@
     "mdb"
   ],
   "vaultSort": [
-    "rank",
+    "path",
     true
   ],
   "inlineBacklinks": false,
@@ -101,6 +75,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681806901643,
+  "spacesAutoBackupLast": 1681807495139,
   "spacesUseAlias": true
 }
