@@ -1,8 +1,8 @@
 ---
 tags: timeline
 ---
-# Franquisme
+# Franquisme (1939-1971)
 ```timeline
-Història; 
+Història;Franquisme
 ```
 
