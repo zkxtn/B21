@@ -37,7 +37,6 @@
   "expandedFolders": {
     "/": [
       "Història/El franquisme",
-      "Templates",
       "0. Asignaturas",
       "Asignatures",
       "Asignatures/Castellano",
@@ -46,7 +45,6 @@
       "Asignatures/Castellano/Castellano_archv/U4",
       "Asignatures/Castellano/Castellano_archv/U3",
       "Asignatures",
-      "Història",
       "Història/La Guerra Civil/Notes",
       "Història/La Guerra Civil/Notes",
       "Història/La Guerra Civil/Notes",
@@ -55,7 +53,6 @@
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional",
-      "Història",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica",
       "Història/La Segunda Republica/0. Dictablanda + Inici"
@@ -95,6 +92,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681421394624,
+  "spacesAutoBackupLast": 1681421522281,
   "spacesUseAlias": true
 }
