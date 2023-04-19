@@ -4,6 +4,7 @@
   "templater-obsidian",
   "text-snippets-obsidian",
   "obsidian-git",
-  "obsidian-timelines",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "note-refactor-obsidian",
+  "obsidian-timelines"
 ]

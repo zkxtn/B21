@@ -55,7 +55,10 @@
       "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional",
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "Història/La Segunda Republica",
-      "Història/La Segunda Republica/0. Dictablanda + Inici"
+      "Història/La Segunda Republica/0. Dictablanda + Inici",
+      "CMC",
+      "CMC",
+      "Història"
     ]
   },
   "expandedSpaces": [
@@ -92,6 +95,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681421522281,
+  "spacesAutoBackupLast": 1681931857839,
   "spacesUseAlias": true
 }

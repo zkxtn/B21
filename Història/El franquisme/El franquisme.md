@@ -1,3 +1,6 @@
+---
+banner: Història/Attachments/Bandera franquista.jpg
+---
 - S'oprimeix l'estatut d'autonomia
 - Eliminació de tots els partits politics a excepció de la Falange Española Tradicionalista y Junta de Ofensiva Nacional-Sindicalista
 - Estat laic -> estat confesional
