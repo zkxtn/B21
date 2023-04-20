@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "baa048f2e64654f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980f132b47fbab8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Història/El franquisme/2.4 Franquisme part 2.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 478
+    "width": 478,
+    "collapsed": true
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -167,6 +183,7 @@
   },
   "active": "8653dce6573e1243",
   "lastOpenFiles": [
+    "Història/El franquisme/2.4 Franquisme part 2.pdf",
     "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
     "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
@@ -206,10 +223,8 @@
     "Història/El franquisme/Dates/Dates.md",
     "Història/El franquisme/Dates",
     "Història/El franquisme/Dates for timeline.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
-    "Templates",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
