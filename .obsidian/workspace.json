@@ -11,8 +11,12 @@
             "id": "8653dce6573e1243",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Untitled.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   },
   "active": "8653dce6573e1243",
   "lastOpenFiles": [
+    "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
     "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
@@ -198,7 +207,6 @@
     "Història/El franquisme/Dates",
     "Història/El franquisme/Dates for timeline.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Templates",
