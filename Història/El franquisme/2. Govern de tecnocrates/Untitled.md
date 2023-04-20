@@ -69,3 +69,16 @@ L’augment del poder adquisitiu va donar la possibilitat d’entrar a la SOCIET
 - Nou utillatge: frigorífics, televisors, altres electrodomèstics... 
 - Popularitza l’automòbil (Seat 600) de producció nacional.
 
+El nivell de la població va millorar considerablement. 
+- **LLEI GENERAL D’EDUCACIÓ** (1970 ): Remodela el sistema educatiu; augment de la població escolaritzada (des d’ensenyament primari fins la universitat); creixement inversions de l’Estat en l’educació; disminució de l’analfabetisme
+
+Canvis significatiu en la família: Poc a poc hi ha una substitució de la família extensa per la FAMÍLIA NUCLEAR (pares i fills) típica del món urbà i industrial
+
+La condició FEMENINA també va canviar:
+1. La dona comença poc a poc a abandonar el paper tradicional, s’incorpora al món
+dels estudis i el treball.
+2. Nova mentalitat que defensava la seva llibertat: El NOU MOVIMENT FEMINISTA
+comença a expandir-se a la mentalitat de moltes dones, tot i la oposició del règim i
+d’una societat totalment patriarcal a nivell moral i legal
+3. Malgrat la incorporació de la dona a noves activitats, la taxa d’ocupació femenina
+molt per sota de la mitjana.
