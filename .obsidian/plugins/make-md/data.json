@@ -58,7 +58,16 @@
       "Història/La Segunda Republica/0. Dictablanda + Inici",
       "CMC",
       "CMC",
-      "Història"
+      "Història",
+      "Història/La Segunda Republica",
+      "Castellano",
+      "Castellano/Castellano_arch 2",
+      "Castellano/Castellano_arch 2/2n TRIM",
+      "Castellano/Castellano_arch 2/2n TRIM/Actividades",
+      "Castellano/Castellano_arch 2/3r TRIM",
+      "Castellano/Castellano_arch 2/3r TRIM/Actividades",
+      "Castellano/0. Glosario",
+      "Castellano/0. Glosario"
     ]
   },
   "expandedSpaces": [
@@ -95,6 +104,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681931883084,
+  "spacesAutoBackupLast": 1682015422494,
   "spacesUseAlias": true
 }

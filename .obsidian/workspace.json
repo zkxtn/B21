@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "96494fd6b2ebbf32",
+        "id": "310f59dd63dff8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "4020cc6e25de995a",
+            "id": "9be56ff1e8ff851e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
+                "file": "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios interrogativos y exclamativos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deff535dde9c202d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
+                "file": "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
+                "file": "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md"
+                "file": "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md"
               }
             }
           }
@@ -165,13 +178,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4020cc6e25de995a",
+  "active": "deff535dde9c202d",
   "lastOpenFiles": [
+    "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios interrogativos y exclamativos.md",
+    "Castellano/0. Glosario/Adverbio/Adverbio.md",
+    "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Oraciones de relativo.md",
+    "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Realizado.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/Untitled.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/Sele 2019.pdf",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/Actividades.2023.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/Act. Navidades. Oracion compuesta.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/Act figuras retoricas.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/7.03.2023.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/21.02.2023.md",
+    "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades.md",
+    "Castellano/Castellano_arch 2/3r TRIM/Actividades",
+    "Castellano/Castellano_arch 2/3r TRIM/3r TRIM.md",
+    "Castellano/Castellano_arch 2/3r TRIM",
+    "Castellano/Castellano_arch 2/2n TRIM/2n TRIM.md",
+    "Castellano/Castellano_arch 2/Castellano_arch 2.md",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
     "conflict-files-obsidian-git.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/7. Franquisme a Catalunya.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
     "Història/El franquisme/La postguerra i la construcció del règim franquista/2. Política franquista.md",
@@ -186,27 +217,9 @@
     "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 2.avif",
     "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 1.avif",
     "CMC/U3/U3.md",
-    "CMC/CMC.md",
-    "Untitled.md",
-    "Inglés/Inglés.md",
-    "Mates/Mates.md",
-    "PDF'S SELE/PDF'S SELE.md",
-    "Història/La Segunda Republica/La 2ª República.md",
-    "Untitled 1.md",
-    "Templates/Timeline.md",
-    "Templates/Timeline-block.md",
     "Templates",
     "PDF'S SELE/FISICA/Examen de Física Setembre 2022 __ Selecat.cat.pdf",
-    "PDF'S SELE/FISICA/Examen de Física Setembre 2021 __ Selecat.cat.pdf",
-    "PDF'S SELE/FISICA/Examen de Física Setembre 2020 __ Selecat.cat.pdf",
-    "PDF'S SELE/FISICA/Examen de Física Setembre 2019 __ Selecat.cat.pdf",
-    "Mates/Untitled.md",
-    "Inglés/Writings/Solomon Northup.md",
-    "Inglés/Writings/Solomon Northup - A description of a person (notes).md",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
-    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/3. Labor legislatiu.md",
-    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/2.1.1. Estatut d'autonomia de Catalunya.md",
-    "Història/La Segunda Republica/1. Bienni Progressista/01. Govern Provisional/01. Govern Provisional.md",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
     "Història/La Guerra Civil/Notes/Untitled.canvas",
