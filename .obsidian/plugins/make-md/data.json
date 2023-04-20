@@ -40,7 +40,8 @@
       "Història/El franquisme",
       "Història",
       "Història/El franquisme",
-      "Història"
+      "Història",
+      "Història/El franquisme/2. Govern de tecnocrates"
     ]
   },
   "expandedSpaces": [
@@ -77,6 +78,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681807873687,
+  "spacesAutoBackupLast": 1681976997531,
   "spacesUseAlias": true
 }

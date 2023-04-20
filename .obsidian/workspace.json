@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8b5a2fae4a6d43",
+        "id": "ce8d3dcaf333eb67",
         "type": "tabs",
         "children": [
           {
-            "id": "9f48c51daf6b1a9b",
+            "id": "8653dce6573e1243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/El franquisme/Franquisme - timeline.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/Franquisme - timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Història/El franquisme/Franquisme - timeline.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,37 +157,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f48c51daf6b1a9b",
+  "active": "8653dce6573e1243",
   "lastOpenFiles": [
+    "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",
+    "Història/El franquisme/Franquisme (1939-1971).md",
+    "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
+    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
+    "Història/El franquisme/2. Govern de tecnocrates",
+    "Història/El franquisme/Autarquia (1939-1959).md",
+    "Història/El franquisme/1. Autarquia",
+    "Història/El franquisme/1. Autarquia/7. Franquisme a Catalunya.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
     "Història/El franquisme/El franquisme.md",
     "Història/El franquisme/Untitled.canvas",
-    "Història/El franquisme/Franquisme - timeline.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/6. L'autarquia (1939 - 1959).md",
     "Història/Attachments/Autarquia.jpg",
     "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 2.avif",
     "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 1.avif",
     "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4.avif",
     "Història/Attachments/Bandera franquista.jpg",
     "Història/El franquisme/context.mdb",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/5. Context Internacional (1939-1959).md",
     "Història/El franquisme/Vida durant la AutarquiaVida durant la AutarquiaVida durant la Autarquia.md",
     "Història/El franquisme/.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/2. Política franquista.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/7. Franquisme a Catalunya.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
     "Història/El franquisme/Dates",
     "Història/Attachments/Franco+Hitler,Hendaia 1940.png",
     "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
     "conflict-files-obsidian-git.md",
     "Templates/Timeline-block.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/fechas.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
     "Història/La Segunda Republica/La 2ª República.md",
-    "Història/El franquisme/La postguerra i la construcció del règim franquista",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista",
     "Història/El franquisme/Dates/Fechas.md",
     "Història/El franquisme/P2 T11P2 T11.md",
     "Història/El franquisme/Dates/Dates.md",
@@ -202,12 +199,9 @@
     "Història/El franquisme/Dates for timeline.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2.1. Fugida del Rei.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/1.3. Insurrecció de Jaca.md",
-    "CMC/U3/U3.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Templates",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2022 __ Selecat.cat.pdf",
-    "PDF'S SELE/MATES/Examen de Matemàtiques Setembre 2021 __ Selecat.cat.pdf",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
