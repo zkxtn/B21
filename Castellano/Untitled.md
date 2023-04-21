@@ -70,23 +70,12 @@ verbo inacusativo = vuelvan
 
 10. La oración *Lo construyeron para tú es agramatical en español. Formule una regla que explique la agramaticalidad de esta secuencia.
 
-  > Despúes de una preposición se escriben pronombres atonos y no posesivos
+  > Despúes de una preposición se escriben pronombres atonos y no personales.
 
 11. Indique la agramaticalidad de la siguiente oración y proponga una solución que la convierta en gramatical: *En la reunión de hoy tenemos varios temas a tratar.
 
-> 
+> La oración es agramatical porque la construcción sustantivo + a + infinitivo es ajena al castellano.
 
-12 Justifique la agramaticalidad de la siguiente oración y proponga una solución que resulte aceptable y gramatical en castellano: *La selección nacional inflingió un duro castigo a su adversaria.
-
-  
-
-  
-
-13. Señale la agramaticalidad de la siguiente oración y realice los cambios adecuados para que sea gramatical: *Le dio sendos golpes en la cabeza y lo dejó inconsciente.
-
-  
-
-  
 
 **Actividades sobre la ambigüedad**.Explicar la doble interpretación de una misma secuencia.
 
@@ -94,13 +83,12 @@ verbo inacusativo = vuelvan
 
 14. Explique la doble interpretación de la siguiente construcción ambigua: Las ganas de hablar de Raquel eclipsaron otros asuntos.
 
-  
+  > ganas de hablar *sobre* Raquel
+  > ganas *que tenia Raquel de hablar*
 
 15. Explique la doble interpretación de la siguiente construcción ambigua: Puedo estudiarlo yo solo.
 
-  
-
-  
+>
 
 16. Explique la doble interpretación de la siguiente construcción ambigua: Los ladrones confesaron haber perpetrado el robo en la comisaría.
 

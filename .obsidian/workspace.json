@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9af3168087c1f9a6",
+  "active": "48c8e6d87200d794",
   "lastOpenFiles": [
     "Castellano/Untitled.md",
     "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
