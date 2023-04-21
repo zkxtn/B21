@@ -41,7 +41,9 @@
       "Història",
       "Història/El franquisme",
       "Història",
-      "Història/El franquisme/2. Govern de tecnocrates"
+      "Història/El franquisme/2. Govern de tecnocrates",
+      "Castellano",
+      "Castellano/Castellano_arch 2"
     ]
   },
   "expandedSpaces": [
@@ -78,6 +80,4 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681992492933,
-  "spacesUseAlias": true
-}
+  "spacesAutoBackupLast": 168
