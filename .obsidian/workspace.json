@@ -11,9 +11,11 @@
             "id": "9af3168087c1f9a6",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Castellano"
+                "file": "Castellano/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478
+    "width": 478,
+    "collapsed": true
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Castellano/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Castellano/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Castellano/Untitled.md"
+              }
             }
           },
           {
@@ -145,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 684
+    "width": 451,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +166,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cef77ea80f210319",
+  "active": "9af3168087c1f9a6",
   "lastOpenFiles": [
+    "Castellano/Untitled.md",
     "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
     "Història/El franquisme/2.4 Franquisme part 2.pdf",
     "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",

@@ -80,4 +80,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 168
+  "spacesAutoBackupLast": 1682061968125,
+  "spacesUseAlias": true
+}
