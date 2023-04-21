@@ -27,7 +27,7 @@ b) Un verde prado.
 
 > En la oracion a) verde tiene la función de nombre y es acompañado por el CN / adjetivo claro, que indica una característica de él. En b) verde actua como adjetivo calificativo de prado, del qual ofrece una característica.
 
-4. Lea el siguiente par mínimo, que contiene dos expresiones gramaticales correctas, y explique qué consecuencia sintáctico-semántica tiene el cambio morfológico en el adjetivo.
+4. Lea el siguiente par mínimo, que contiene dos expresiones gramaticales correctas, y explique qué consecuencia sintáctico-semántica tiene el cambio morfológico en el adjetivo..
 
 a) La joven dejó tranquilo a su hijo en la guardería.
 b) La joven dejó tranquila a su hijo en la guardería.

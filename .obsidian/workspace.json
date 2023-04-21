@@ -160,8 +160,17 @@
                 "file": "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md"
               }
             }
+          },
+          {
+            "id": "6739d22ad4b857d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
