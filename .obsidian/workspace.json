@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f08108490e1fc1",
+        "id": "a44d48bb71d61d65",
         "type": "tabs",
         "children": [
           {
-            "id": "9af3168087c1f9a6",
+            "id": "0dc8b5e799822f65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Castellano/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,12 +69,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 478,
-    "collapsed": true
+    "width": 478
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Castellano/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Castellano/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Castellano/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451,
-    "collapsed": true
+    "width": 451
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48c8e6d87200d794",
+  "active": "4488945fd3c2d35e",
   "lastOpenFiles": [
+    "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios relativos.md",
     "Castellano/Untitled.md",
     "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
     "Història/El franquisme/2.4 Franquisme part 2.pdf",
@@ -207,7 +199,6 @@
     "Història/El franquisme/P2 T11P2 T11.md",
     "Història/El franquisme/Dates/Dates.md",
     "Història/El franquisme/Dates",
-    "Història/El franquisme/Dates for timeline.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
