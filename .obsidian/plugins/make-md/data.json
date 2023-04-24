@@ -36,7 +36,9 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Història"
+      "Història",
+      "Història/El franquisme",
+      "Història/El franquisme/2. Govern de tecnocrates"
     ]
   },
   "expandedSpaces": [
@@ -73,6 +75,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682061968125,
+  "spacesAutoBackupLast": 1682321942214,
   "spacesUseAlias": true
 }

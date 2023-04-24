@@ -5,7 +5,7 @@
 }
 /* Use the before pseudo element to display attributes of the span or div */
 .ob-timelines::before {
-  content: "🔖 " attr(data-date) ": " attr(data-title) ". ";
+  content: "🔖 " **attr(data-date)** ": " ***attr(data-title)*** ". ";
   color: lilac;
   font-weight: 500;
 }

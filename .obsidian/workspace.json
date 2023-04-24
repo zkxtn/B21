@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a44d48bb71d61d65",
+        "id": "a0cd9524714bcb59",
         "type": "tabs",
         "children": [
           {
             "id": "0dc8b5e799822f65",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Història/El franquisme"
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a44d48bb71d61d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4de33a8f290784",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Història/El franquisme/2.4 Franquisme part 2.pdf"
               }
             }
           }
@@ -92,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md"
+              }
             }
           },
           {
@@ -161,10 +183,14 @@
   },
   "active": "0dc8b5e799822f65",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled 1",
+    "Untitled",
+    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+    "Història/El franquisme/2.4 Franquisme part 2.pdf",
+    "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
     "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios relativos.md",
     "Castellano/Untitled.md",
-    "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
-    "Història/El franquisme/2.4 Franquisme part 2.pdf",
     "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
@@ -197,11 +223,7 @@
     "Història/El franquisme/fechas.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
     "Història/La Segunda Republica/La 2ª República.md",
-    "Història/El franquisme/0. La postguerra i la construcció del règim franquista",
     "Història/El franquisme/Dates/Fechas.md",
-    "Història/El franquisme/P2 T11P2 T11.md",
-    "Història/El franquisme/Dates/Dates.md",
-    "Història/El franquisme/Dates",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
