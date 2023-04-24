@@ -5,7 +5,7 @@ L’ESCÀNDOL MATESA va tenir a veure amb un ***frau fiscal relacionat amb l’e
 
 Van haver-hi ***denúncies de corrupció***, finançament amb crèdits amb el suport estatal a càrrec del Banco de Crédito Industrial d'operacions de venda de telers que, en realitat, mai havien tingut lloc
 
->[!Important] Condemnes
+>[!fail] Condemnes
 >**Fou condemnat l’important l’empresari i president de l’espanyola (1967-1969) Juan Vilá Reyes**, l’amic personal del llavors Ministre del Pla de Desenvolupament, Laureano López Rodó.
 >La condemna fou de 223 anys de presó, encara que només va complir una mica menys de set sent indultat.
 

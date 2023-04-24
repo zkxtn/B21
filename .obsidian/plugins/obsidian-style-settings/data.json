@@ -22,5 +22,6 @@
   "anuppuccin-theme-settings@@anp-print": true,
   "anuppuccin-theme-settings@@anp-inline-title-vis": "block",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
-  "anuppuccin-theme-settings@@anp-toggle-metadata": true
+  "anuppuccin-theme-settings@@anp-toggle-metadata": true,
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": false
 }
