@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md"
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md"
               }
             }
           },
@@ -184,8 +183,10 @@
   },
   "active": "0dc8b5e799822f65",
   "lastOpenFiles": [
-    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+    "Templates/Callouts.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
     "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
     "Untitled 1.md",
     "Untitled 1",
@@ -223,8 +224,6 @@
     "Templates/Timeline-block.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/fechas.md",
-    "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
-    "Història/La Segunda Republica/La 2ª República.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
