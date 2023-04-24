@@ -1,4 +1,7 @@
-.obsidian\workspace.json
+.obsidian/workspace.json
 .trash/
 .DS_Store
 .obsidian/plugins/make-md
+
+.obsidian/
+.obsidian
