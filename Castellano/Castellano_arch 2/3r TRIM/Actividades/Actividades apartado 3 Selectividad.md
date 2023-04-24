@@ -102,6 +102,18 @@ d) (1) CI, (2) CD
 
 **ACTIVIDADES  de respuestas seriadas.** Elegir la opción correcta entre una serie de respuestas con múltiples opciones.
 
+
+29. En esta oración aparecen subrayadas algunas palabras. Señale la opción que indica su categoría gramatical por estricto orden de aparición: Era un niño *cuya fabulosa* imaginación asombraba a *cuantos* le conocían *poco*.
+
+a) pronombre relativo, adjetivo relacional, pronombre relativo, adverbio
+
+b) determinante relativo, adjetivo valorativo, pronombre indefinido, adjetivo cuantificativo
+
+c) determinante relativo, adjetivo valorativo, pronombre relativo, adverbio
+
+==d) pronombre relativo, adjetivo relacional, determinante indefinido, adjetivo cuantificativo==
+
+
 30. Lea la siguiente lista de secuencias y, de las opciones que se ofrecen debajo, elija la única que identifica de manera correcta y ordenada el tipo de oración subordinada que aparece en cada una de las secuencias.
 
 1) La empresa para la que trabajé en mi juventud ya no existe.
@@ -119,3 +131,178 @@ a) 1) relativa, 2) de manera, 3) causal, 4) sustantiva
 c) 1) final, 2) condicional, 3) causal, 4) relativa
 
 d) 1) final, 2) comparativa, 3) condicional, 4) sustantiva
+
+
+31. Lea la siguiente lista de secuencias y, de las opciones que se ofrecen debajo, elija la única que identifica de manera correcta y ordenada el tipo de oración subordinada que aparece en cada una de ellas.
+
+  
+
+1) Abrió la ventana para que se ventilara la habitación.
+
+2) Tiene aptitudes, pero debería esforzarse más.
+
+3) Causa problemas allá donde va.
+
+4) Los profesores que dicen eso no se enteran de nada.
+
+a) 1) sustantiva, 2) adversativa, 3) adverbial, 4) de relativo
+
+b) 1) causal, 2) consecutiva, 3) de relativo, 4) sustantiva
+
+c) 1) final, 2) adversativa, 3) de relativo, 4) de relativo
+
+d) 1) final, 2) adversativa, 3) adverbial, 4) sustantiva
+
+  
+
+32. Lea la siguiente lista de oraciones y, de las opciones que se ofrecen debajo, elija la única que identifica de manera correcta y ordenada la función sintáctica que desempeñan los sintagmas subrayados en cada una de ellas.
+
+1) La actuación ha dejado a los espectadores *emocionados*.
+
+2) Esta doctora es *la pediatra que nos atendió.*
+
+3) Le multaron *por su comportamiento incívico.*
+
+4) La mayoría optó *por la versión no presencial del curso.*
+
+  
+
+a) 1) complemento predicativo, 2) complemento directo, 3) complemento circunstancial, 4) complemento de régimen
+
+b) 1) complemento predicativo, 2) complemento directo, 3) complemento de régimen pre-posicional, 4) complemento circunstancial
+
+c) 1) complemento del nombre, 2) atributo, 3) complemento de régimen preposicional, 4) complemento circunstancial
+
+d) 1) complemento predicativo, 2) atributo, 3) complemento circunstancial, 4) complemento de régimen preposicional
+
+  
+
+33. Lea la siguiente lista de secuencias y, de entre las opciones que se ofrecen debajo, elija la única que identifica de manera correcta y ordenada el tipo de oración si se tiene en cuenta la palabra se que aparece en cada una de ellas.
+
+1. Se publicó la noticia ayer.
+
+2. Se vive bien aquí.
+
+3. Se maquilló para la función.
+
+4. Se dijeron de todo
+
+a) 1) impersonal, 2) pronominal, 3) reflexiva, 4) recíproca
+
+b) 1) pasiva refleja, 2) impersonal, 3) reflexiva, 4) recíproca
+
+c) 1) pasiva refleja, 2) impersonal, 3) reflexiva, 4) pronominal
+
+d) 1) impersonal, 2) pasiva refleja, 3) recíproca, 4) pronominal
+
+  
+
+**ACTIVIDADES de opción múltiple** Elegir una o más de una de las respuestas que se ofrecen.
+
+  
+
+34. Señale el enunciado o los enunciados correctos referidos a la oración: Cada vez se trabaja más.
+
+a) Es una oración impersonal.
+
+b) La palabra más es un adverbio de cantidad.
+
+c) Cada vez es el SN (sujeto).
+
+d) Es una oración agramatical.
+
+  
+
+35. De entre las siguientes oraciones, señale las que están construidas incorrectamente.
+
+a) Por su afán de ahorro, todos los tachan como tacaños.
+
+b) En ese programa electoral se aboga por la privatización de algunos servicios.
+
+c) Los datos hacer preveer que el problema está en vías de solución.
+
+d) Durante el acto inagural, la alcaldesa pronunció un breve discurso.
+
+e) Les molestan las falsedades que se están vertiendo sobre ellos.
+
+  
+
+  
+
+36. De entre las siguientes oraciones, señale las que están construidas correctamente: a) Al anciano lo atendieron en primer lugar.
+
+b) A su hermanastra no le conoció hasta el día del funeral de su padre.
+
+c) A mis sobrinos casi no les conozco.
+
+d) La dio un beso en la frente y se fue.
+
+e) A mi hija le regalaré mis joyas.
+
+  
+
+  
+
+37. Observe las dos secuencias siguientes y señale el enunciado o los enunciados correctos de entre los que figuran a continuación.
+
+1. Le tiene miedo al perro
+
+2. Miedo al perro es lo que tiene.
+
+a) En la primera, al perro es un CI.
+
+b) En la segunda, al perro es un CN.
+
+c) En la primera al perro es un CPrep.
+
+d) En ambas al perro es un CN.
+
+e) En ambas al perro es un CI.
+
+f) En ambas al perro es un CPrep.
+
+  
+
+38. Señale el enunciado o los enunciados correctos.
+
+a) Una mujer así es un sintagma nominal que tiene como núcleo el sustantivo mujer.
+
+b) Ahora mismo es un sintagma adjetivo cuyo núcleo es mismo.
+
+c) Desde entonces es un sintagma adverbial cuyo núcleo es entonces.
+
+d) Allí, en el bosque es un sintagma adverbial cuyo núcleo allí está complementado por el SPrep en el bosque.
+
+  
+
+**ACTIVIDADES** de respuesta corta. Responder brevemente una serie de preguntas sobre gramática y sintaxis.
+
+39. ¿Se ha identificado correctamente el sujeto en la siguiente oración? Justifique la respuesta.
+
+Hay demasiada gente en la cola. sujeto
+
+  
+
+40. La frase *_no dígamelo_ es agramatical porque incumple una regla que dice lo siguiente:
+
+  
+
+41. Explique las diferencias entre las siguientes construcciones a) Sentía por ella un amor casi infinito. b) *Sentía por ella un amor muy infinito.
+
+  
+
+  
+
+42. Las siguientes oraciones contienen errores de expresión. Reescríbalas de forma correcta.
+
+a) Ella fue que me convenció.
+
+b) Estaban sentados delante nuestro.
+
+c) No les dijistes la verdad y eso no está bien.
+
+d) Todo depende a quién le preguntes.
+
+  
+
+43. Justifica por qué decimos sé a sal (tengo sabor salado) y, por el contrario, no es correcta la forma *sabo a sal.
