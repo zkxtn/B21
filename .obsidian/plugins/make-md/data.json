@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": []
+    "/": [
+      "Història"
+    ]
   },
   "expandedSpaces": [
     null,
