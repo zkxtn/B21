@@ -38,7 +38,8 @@
     "/": [
       "Història",
       "Història/El franquisme",
-      "Història/El franquisme/2. Govern de tecnocrates"
+      "Història/El franquisme/2. Govern de tecnocrates",
+      "Història/El franquisme/Dates"
     ]
   },
   "expandedSpaces": [
@@ -75,6 +76,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682321942214,
+  "spacesAutoBackupLast": 1682322392182,
   "spacesUseAlias": true
 }

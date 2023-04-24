@@ -19,3 +19,5 @@
 	Concretava les funcions dels òrgans de l’Estat: 
 	1. Concentració poders dictador. 
 	2. Separació entre el cap de l’Estat i president del govern (Franco va exercir els dos càrrecs fins al **1973** en que la presidència va pasar a Carrero Blanco).
+- **1969**, ***LLEI DE SUCCESSIÓ***
+	Franco designà com a successor : Joan Carles de Borbó amb el títol de Príncep d’Espanya. Això va agreujar les tensions entre els tecnòcrates (partidaris de la successió monàrquica) i els falangistes (volien impulsar les institucions del “Movimiento” com a garantia de la continuïtat del règim).

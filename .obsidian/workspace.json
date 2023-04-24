@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 349,
+    "collapsed": true
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md"
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md"
               }
             }
           },
@@ -183,10 +184,12 @@
   },
   "active": "0dc8b5e799822f65",
   "lastOpenFiles": [
+    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
+    "Història/El franquisme/Dates/Dates de legislació franquista.md",
     "Untitled 1.md",
     "Untitled 1",
     "Untitled",
-    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
     "Història/El franquisme/2.4 Franquisme part 2.pdf",
     "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
     "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios relativos.md",
@@ -210,7 +213,6 @@
     "Història/Attachments/Bandera franquista.jpg",
     "Història/El franquisme/context.mdb",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
-    "Història/El franquisme/Dates/Dates de legislació franquista.md",
     "Història/El franquisme/Vida durant la AutarquiaVida durant la AutarquiaVida durant la Autarquia.md",
     "Història/El franquisme/.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
@@ -223,7 +225,6 @@
     "Història/El franquisme/fechas.md",
     "Història/La Segunda Republica/0. Dictablanda + Inici/2. Eleccions municipals del 12 d'abril de 1931.md",
     "Història/La Segunda Republica/La 2ª República.md",
-    "Història/El franquisme/Dates/Fechas.md",
     "Història/La Segunda Republica/La II República.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
