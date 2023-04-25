@@ -1,6 +1,13 @@
 .obsidian/workspace.json
 .trash/
 .DS_Store
+<<<<<<< HEAD
 
 .obsidian/
 .obsidian
+=======
+.obsidian/plugins/make-md
+
+.obsidian/
+.obsidian
+>>>>>>> origin/main

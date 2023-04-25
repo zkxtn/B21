@@ -49,3 +49,14 @@ CARRERO BLANCO va ser la persona més important per mantenir la unió de totes l
 
 >[!fail] Mort de Carrero Blanco
 >El 20 de desembre de 1973 va ser assassinat conjuntament amb el seu cotxer en un atemptat d’ ETA a Madrid.
+
+A partir d’aquest moment la fractura entre els IMMOBILISTES i els OBERTURISTES va ser cada vegada més gran. IMMOBILISTES: Continuïtat a qualsevol preu. 
+
+Els sectors més ultres s’oposaven a qualsevol transformació. Eren elsanomenats BÚNQUERS(comandaments militars, vells falangistes i polítics més recalcitrants com: José A. Girón i Blas Piñar)
+
+OBERTURISTES: Conscients de la situació del país, reclamaven al govern franquista, sense deixar de ser lleials a aquest, una major llibertat i obertura internacional si es volia la prosperitat d'Espanya. 
+
+Creien convenient d’un canvi progressiu mitjançant la creació d’associacions polítiques dins del “Movimiento.”
+
+El gener de 1974 es forma un nou govern presidit per ***CARLOS ARIAS NAVARRO***, pretenia unir oberturistes i immobilistes. Programa “**ESPÍRITU del 12 DE FEBRERO”**.
+

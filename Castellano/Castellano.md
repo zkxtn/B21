@@ -1,3 +1,6 @@
+---
+color: "#eb3b5a"
+---
 %% Begin Waypoint %%
 - **[[0. Glosario]]**
 - **Attachments**
