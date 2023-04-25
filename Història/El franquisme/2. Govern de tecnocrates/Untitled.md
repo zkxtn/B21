@@ -1,84 +1,51 @@
-# Govern del desarrollismo
-El govern format per Franco l’any 1957 i els successius van suposar un canvi significatiu. Serà la transició cap a la segona etapa, dominada pels TECNÒCRATES.
+Una altre element de contestació va ser el MOVIMENT ESTUDIANTIL, que a partir de la década del 1960 va manifestar el seu ideari antifranquista. 
+- L’any 1966, estudiants de la UB, en un acte celebrat al convent dels Caputxins de Sarrià van crear el Sindicat Democràtic d’Estudiants (SDEUB).
 
-- Nova generació de polítics.
-- Alguns vinculats a l’Opus Dei.
-- Relacionats amb elits econòmiques.
-- Creixement econòmic = principal garantiad’estabilitat social.
-- Perfil més tècnic.
-- **Objectiu:** incorporació a la gestió de l’Estat de criteris de racionalitat i eficàcia econòmica per assegurar continuïtat del règim.
+- Durant la dècada del 1970 es donen més moviments socials. **Gran importància dels MOVIMENTS de les ORGANITZACIONS VEÏNALS.** Impulsades per una minoria polititzada que reclamava millors condicions de vida per als barris.
 
-## Reformisme tècnic
-Volien un **REFORMISME TÈCNIC** per trobar una sortida a la greu situació econòmica i social. Aquest reformisme va ser portat per la nova generació de polítics, els quals eren técnics, ***especialistes en finances***.
+# Grups polítics antifranquistes
+## Catalunya
+>[!list]
+>- **PSUC**
+>- FRONT OBRER de CATALUNYA (FOC)
+>- MOVIMENT SOCIALISTA DE CATALUNYA (MSC)
+>- UNIÓ DEMOCRÀTICA DE CATALUNYA (UDC)
+>- ESQUERRA REPUBLICANA DE CATALUNYA (ERC)
+>- FRONT NACIONAL DE CATALUNYA (FNC).
+>- Partit Socialista d'Alliberament Nacional
+>- CONVERGÈNCIA DEMOCRÀTICA de CATALUNYA (CDC)
 
-Els nous ministres, els "**tecnocrates**" seran conservadors en temes politico-socials i en l'ambit econòmic "*Aperturistes*".
+## Tota Espanya
+>[!list]
+>PCE
+>PSOE
 
-Aquest govern va iniciar un *procés de canvi Econòmic* (NO POLÍTIC):
-- Devaluació de la pesseta i reforma fiscal (majors ingressos)
-- Espanya entrava en l'OECE i al FMI (1958)
-- Es va posar en marxa el **Pla d'Estabilització**
+## Euskadi
+A Euskadi la dura repressió a tot lo basc del règim franquista va ocasionar la perduda del sentiment d'espanyolitat d’una part significativa de la població basca, la qual cosa va fer arrelar l'independentisme.
 
-### Causes del canvi d’orientació
-1. Mala conjuntura econòmica de finals de la dècada del 1950.
-2. Pressió dels organismes internacionals.
-3. Augment de les protestes socials.
-4. Europa vivia una ETAPA DE RECUPERACIÓ ECONÒMICA després de la Segona Guerra Mundial,
-l’economia espanyola estava disposada a aprofitar les condicions favorables
+El PNV(Partit Nacionalista Vasc)
+El 1959 es va fundar ETA (Euskadi Ta Askatasuna, “País Basc i Llibertat”
 
-### Pla d'estabilització
-PLA D’ESTABILITZACIÓ (1959). Objectiu: posar fi al fort intervencionisme estatal i afavorir la liberalització comercial i financera. 
+L’estiu de 1970 el govern franquista pretén fer un macro judici contra ETA al Tribunal Militar de Burgos, amb l’objectiu d’escenificar una suposada derrota d’ETA. Així el 3 de desembre de 1970, s’iniciava el Procés de Burgos, amb 16 militants d’ETA com acusats. 
+El judici durà fins al dia 9 de desembre, enmig de grans protestes i manifestacions tant al país basc, com arreu de l’estat i a altres països. El judici porta a ETA a fer-se coneguda internacionalment.
 
-1) ESTABILITZACIÓ DE L’ECONOMIA:
-- Per reduir la inflació:
-	- S'apugen els tipus d'interès bancari
-- es limita la concessió de crèdits; es congelen els salaris.
+El CONSELL DE GUERRA A BURGOS (1970) amb la petició de 6 penes de mort per membres d’ETA va suposar àmplies protestes i una campanya internacional que demanava l’indult.
 
-- Per poder limitar el dèficit públic es porta a terme la reforma fiscal per augmentar la recaptació i per limitar la despesa d l’Estat
+>[!fail] veredicte
+>El veredicte fou públic el 28 de desembre de 1970. El resultat, 9 condemnes a mort (a 6 persones, ja que tres condemnes eren dobles), 1 absolució i 9 penes de presó d’entre 12 i 70 anys, fet que provocà un gran descontentament social. 
+>>**La pressió social, aconseguí que el dia 30, el mateix Franco commutes les penes capitals per penes de presó, mostrant així una gran mostra de debilitat enfront de la pressió social.**
 
-2) LIBERALITZACIÓ INTERIOR DE L’ECONOMIA 
-- Es va dur a terme a partir de l’eliminació d’organismes estatals interventors i posant fi a la reglamentació dels preus fixos.
+## La represa cultural de Catalunya.
+La certa tolerància del règim que es va aprofitar des del catalanisme, tant polític com cultural.
 
-3) LIBERALITZACIÓ EXTERIOR DE L’ECONOMIA
-**Objectiu:** eliminar els obstacles a l’entrada de mercaderies estrangeres i facilitar la inversió de capitals exterior. Per tant s'afavoreix l'entrada de capital estranger mitjançant la iniciativa privada. 
--  S’anuncia la **CONVERTIBILITAT** de la pesseta a altres divises per facilitar els intercanvis comercials amb l’estranger.
-- A canvi de tot això, diversos organismes internacionals van donar **PRÈSTECS** a Espanya.
-- Totes aquestes mesures volien incorporar l’economia espanyola als **MERCATS INTERNACIONALS** per posar les bases d’un creixement econòmic posterior.
+>[!tittle] Emergeix un MOVIMENT CIVIL CATALANISTA:
+>- Primeres revistes en català: Serra d’Or, o la revista infantil “Cavall fort”.
+>- Creació i consolidació d’entitats: Omnium Cultural
+>- Creació i consolidació de projectes cultural com Enciclopèdia Catalana.
+>- Creació d’editorials: Com Edicions 62 que editarà llibres en català. 
 
-## Migracions
-Les MIGRACIONS INTERIORS van ser molt espectaculars. 
-1. Entre el 1962-1973: 4 milions persones van canviar de lloc de residència. 
-2. Les regions agrícoles van ser les principals proveïdores. 
-3. Destinació : MADRID, CATALUNYA, PAÍS BASC I VALÈNCIA.
+## La crisi política del règim.
+CARRERO BLANCO va ser la persona més important per mantenir la unió de totes les famílies franquistes i assegurar la continuïtat del règim després de la mort del dictador.
 
-(El PROCÉS MIGRATORI va ser especialment intens a CATALUNYA, van arribar 1, 8 milions d’immigrants entre 1940-1975.)
-
-No hi va haver planificació ni gestió efivient de les migracions internes. Això va suposar Importants conseqüències i desequilibris regionals. 
-
-Les ciutats van créixer gairebé fins a la saturació i sense infraestructures: 
-- **BARRAQUISME**. Proliferació de barris mal equipats, amb habitatges precaris i amb dèficits de serveis socials bàsics.
-
-## Canvis socials
-L’expansió de l’economia va comportar una transformació profunda de la societat.
-
-Deixant enrere la misèria i la rígida moral de la postguerra i avançant cap a unes pautes socials i uns hàbits culturals propis tot absorbint poc a poc influències de l’estranger.
-
-L'*expansió de la televisió* a la una bona part de les cases espanyoles ja era una realitat durant els anys 60 ( un 40% de les cases al final de la dècada).
-- Anteriorment els 50 era un objecte de luxe, les primeres emissions de **TVE** van ser a partir del 28 de octubre de 1956 (Van ser misses i discursos oficials principalment).
-
-L’augment del poder adquisitiu va donar la possibilitat d’entrar a la SOCIETAT de CONSUM. Es va viure amb gran intensitat. 
-- Nou utillatge: frigorífics, televisors, altres electrodomèstics... 
-- Popularitza l’automòbil (Seat 600) de producció nacional.
-
-El nivell de la població va millorar considerablement. 
-- **LLEI GENERAL D’EDUCACIÓ** (1970 ): Remodela el sistema educatiu; augment de la població escolaritzada (des d’ensenyament primari fins la universitat); creixement inversions de l’Estat en l’educació; disminució de l’analfabetisme
-
-Canvis significatiu en la família: Poc a poc hi ha una substitució de la família extensa per la FAMÍLIA NUCLEAR (pares i fills) típica del món urbà i industrial
-
-La condició FEMENINA també va canviar:
-1. La dona comença poc a poc a abandonar el paper tradicional, s’incorpora al món
-dels estudis i el treball.
-2. Nova mentalitat que defensava la seva llibertat: El NOU MOVIMENT FEMINISTA
-comença a expandir-se a la mentalitat de moltes dones, tot i la oposició del règim i
-d’una societat totalment patriarcal a nivell moral i legal
-3. Malgrat la incorporació de la dona a noves activitats, la taxa d’ocupació femenina
-molt per sota de la mitjana.
+>[!fail] Mort de Carrero Blanco
+>El 20 de desembre de 1973 va ser assassinat conjuntament amb el seu cotxer en un atemptat d’ ETA a Madrid.
