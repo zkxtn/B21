@@ -47,7 +47,8 @@
       "Castellano/Castellano_arch 2/3r TRIM/Actividades",
       "Castellano/0. Glosario",
       "Història/El franquisme",
-      "Història/El franquisme/1. Autarquia"
+      "Història/El franquisme/1. Autarquia",
+      "Castellano/0. Glosario/Ortografía y lexico"
     ]
   },
   "expandedSpaces": [
@@ -84,6 +85,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682870903857,
+  "spacesAutoBackupLast": 1682871155286,
   "spacesUseAlias": true
 }
