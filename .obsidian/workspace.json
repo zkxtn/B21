@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4a3a12e9665101a2",
@@ -49,8 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "100e736c896dac6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,13 +116,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349,
-    "collapsed": true
+    "width": 349
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/Franquisme (1939-1971).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/Franquisme (1939-1971).md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/Franquisme (1939-1971).md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -205,9 +215,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2bafc995903602b",
+  "active": "48c8e6d87200d794",
   "lastOpenFiles": [
+    "Untitled.md",
     "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
+    "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
     "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
     "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
@@ -235,11 +247,9 @@
     "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios relativos.md",
     "Castellano/Untitled.md",
     "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",
-    "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/2. Govern de tecnocrates",
     "Història/El franquisme/Autarquia (1939-1959).md",
     "Història/El franquisme/1. Autarquia",
-    "Història/El franquisme/1. Autarquia/7. Franquisme a Catalunya.md",
     "Història/El franquisme/Untitled.canvas",
     "Història/Attachments/Autarquia.jpg",
     "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 2.avif",
