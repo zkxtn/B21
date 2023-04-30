@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "extended-colorschemes",
     "custom-rainbow-colors",
-    "timelines"
+    "timelines",
+    "timeline-snippet"
   ],
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 15

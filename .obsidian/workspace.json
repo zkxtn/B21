@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c5aca428c32ac049",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "385cad9abe8128fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2bafc995903602b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/El franquisme/Franquisme (1939-1971).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4a3a12e9665101a2",
         "type": "tabs",
         "children": [
@@ -50,13 +20,13 @@
             }
           },
           {
-            "id": "100e736c896dac6e",
+            "id": "d045c70831979215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Untitled 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -120,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 349,
+    "collapsed": true
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -136,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -215,10 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48c8e6d87200d794",
+  "active": "d045c70831979215",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 1.md",
     "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
+    "Untitled.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
     "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
@@ -240,7 +212,6 @@
     "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
     "Templates/Callouts.md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
-    "Untitled 1.md",
     "Untitled 1",
     "Untitled",
     "Història/El franquisme/2.4 Franquisme part 2.pdf",
