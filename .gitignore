@@ -11,3 +11,7 @@
 .obsidian/
 .obsidian
 >>>>>>> origin/main
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
