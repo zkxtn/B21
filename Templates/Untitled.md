@@ -31,7 +31,7 @@ Choose the `timeline` or `timeline-labeled` tag
     -   you can separate them with empty lines if it's easier for you to write
     
     ```timeline-labeled
-    [line-3, body-4, active-color-interactive-success]
+    [line-3, body-4, active-color-text-selection]
     date: pre</br> 17th century
     title: Origins of coffee
     content:The modern version of roasted coffee originated in Arabia. 

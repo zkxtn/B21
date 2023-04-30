@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "9b0e1c30f942b0e9",
+    "id": "674f0984dbc30812",
     "type": "split",
     "children": [
       {
-        "id": "4a3a12e9665101a2",
+        "id": "861a1232f9f8a5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "95fceda4a6536173",
+            "id": "82c455c3722a534b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5d8971d464b0aa01",
+    "id": "f6a7c5cbd68040b4",
     "type": "split",
     "children": [
       {
-        "id": "408976ef29294f6a",
+        "id": "0b1d928f769835aa",
         "type": "tabs",
         "children": [
           {
-            "id": "48c8e6d87200d794",
+            "id": "bedaacb2c7f3468d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "9944563b117df7e9",
+            "id": "9b357460a6470f85",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "332289f1e8ec5b00",
+            "id": "1ef20c6b6d1a7998",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,34 +62,44 @@
             }
           },
           {
-            "id": "cef77ea80f210319",
+            "id": "e6f5812033a76d2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6dec41507bb82c8",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 300
   },
   "right": {
-    "id": "9e418adaf140c785",
+    "id": "502d0046f0b071c5",
     "type": "split",
     "children": [
       {
-        "id": "27390cc4a92705bf",
+        "id": "454ad66801703299",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2b54157f08ced7",
+            "id": "c128a532f83f78ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +111,18 @@
             }
           },
           {
-            "id": "0af02d39f38d6dd8",
+            "id": "22a03834854c98af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9dba9ea64e91402d",
+            "id": "9f681d907309c569",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,106 +133,93 @@
             }
           },
           {
-            "id": "ed0fa3982ed3b4a7",
+            "id": "a1c8df943944f659",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "4488945fd3c2d35e",
+            "id": "6739d22ad4b857d8",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "c4c554ee9a7c7bc5",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 451,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "48c8e6d87200d794",
+  "active": "e6f5812033a76d2c",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
+    "Història/El franquisme/1. Autarquia/7. Franquisme a Catalunya.md",
+    "Templates/Untitled.md",
+    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
     "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+    "Història/El franquisme/El franquisme.md",
     "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
-    "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "PDF'S SELE/PDF'S SELE.md",
-    "Mates/Mates.md",
-    "Inglés/Inglés.md",
-    "Castellano/Castellano_arch 2/Castellano_arch 2.md",
-    "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades.md",
-    "Castellano/Castellano_arch 2/3r TRIM/Actividades",
-    "Castellano/Castellano_arch 2/3r TRIM/3r TRIM.md",
-    "Castellano/Castellano_arch 2/3r TRIM",
-    "Castellano/Castellano_arch 2/2n TRIM/2n TRIM.md",
-    "Història/Attachments/fETS DEL PALAU DE LA MUSICA.md",
-    "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
-    "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
-    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
-    "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
-    "Templates/Callouts.md",
-    "Història/El franquisme/Dates/Dates de legislació franquista.md",
-    "Untitled 1",
-    "Untitled",
-    "Història/El franquisme/2.4 Franquisme part 2.pdf",
-    "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios relativos.md",
     "Castellano/Untitled.md",
+    "Pasted image 20230430181743.png",
+    "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
+    "Història/Attachments/fETS DEL PALAU DE LA MUSICA.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Escandalo de Matesa.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Legislatura tardo-franquista.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Protectorat del Marroc.md",
+    "Castellano/0. Glosario/Adverbio/Tipos segun funcion/Adverbios interrogativos y exclamativos.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Callouts.md",
+    "Història/El franquisme/2. Govern de tecnocrates/Untitled.md",
+    "Història/El franquisme/2. Govern de tecnocrates/2. Govern de tecnocrates.md",
     "Història/El franquisme/2. Govern de tecnocrates",
     "Història/El franquisme/1. Autarquia",
-    "Història/El franquisme/Untitled.canvas",
-    "Història/Attachments/Autarquia.jpg",
-    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 2.avif",
-    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4 1.avif",
-    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4.avif",
-    "Història/Attachments/Bandera franquista.jpg",
+    "Història/El franquisme/2.4 Franquisme part 2.pdf",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista",
+    "Castellano/0. Glosario/Adverbio/Adverbio.md",
+    "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/4. Tipos de relativo/Oraciones de relativo/Oraciones de relativo.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Realizado.md",
+    "Castellano/Castellano_arch 2/2n TRIM/Actividades/Sele 2019.pdf",
+    "Castellano/Castellano_arch 2/3r TRIM/Actividades",
+    "Castellano/Castellano_arch 2/3r TRIM",
+    "Història/El franquisme/La postguerra i la construcció del règim franquista",
+    "Història/El franquisme/Dates",
     "Història/Attachments/Franco+Hitler,Hendaia 1940.png",
-    "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
-    "Història/La Segunda Republica/La II República.canvas",
-    "Història/La Guerra Civil/La Guerra Civil.canvas",
+    "Història/Attachments/Bandera franquista.jpg",
+    "Història/Attachments/Autarquia.jpg",
+    "Història/Attachments/42HQNE53HFGBBEGZLXPNZWTYQ4.avif",
     "Història/La Segunda Republica/D-D/Attachments/WhatsApp Image 2023-02-25 at 15.33.16.jpg",
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
     "Història/La Guerra Civil/Notes/Untitled.canvas",
     "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
     "Història/Tema 6 y 8/Reinado de Alfonso XIII.canvas",
+    "Història/La Guerra Civil/La Guerra Civil.canvas",
+    "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647 1.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134334.png",
-    "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134325.png",
     "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas"
   ]
 }

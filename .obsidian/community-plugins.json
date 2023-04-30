@@ -2,10 +2,11 @@
   "make-md",
   "dataview",
   "templater-obsidian",
+  "text-snippets-obsidian",
   "obsidian-git",
+  "obsidian-style-settings",
   "note-refactor-obsidian",
   "callout-manager",
-  "graph-analysis",
-  "various-complements",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "various-complements"
 ]
