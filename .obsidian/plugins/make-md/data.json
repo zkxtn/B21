@@ -67,7 +67,9 @@
       "Castellano/Castellano_arch 2/3r TRIM/Actividades",
       "Castellano/0. Glosario",
       "Castellano/0. Glosario",
-      "Història/El franquisme/2. Govern de tecnocrates"
+      "Història/El franquisme/2. Govern de tecnocrates",
+      "Castellano/0. Glosario",
+      "Castellano/Castellano_arch 2/2n TRIM/Attachments"
     ]
   },
   "expandedSpaces": [
@@ -104,6 +106,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682879058585,
+  "spacesAutoBackupLast": 1683144874623,
   "spacesUseAlias": true
 }
