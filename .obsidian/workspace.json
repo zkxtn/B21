@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/Transició/Untitled.md",
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "408976ef29294f6a",
         "type": "tabs",
-        "dimension": 34.595300261096604,
         "children": [
           {
             "id": "48c8e6d87200d794",
@@ -74,29 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "04634547998bc348",
-        "type": "tabs",
-        "dimension": 65.40469973890339,
-        "children": [
-          {
-            "id": "95fceda4a6536173",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Història/Transició/La transició DEFINITIU .pdf"
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 525
+    "width": 525,
+    "collapsed": true
   },
   "right": {
     "id": "9e418adaf140c785",
@@ -112,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/Transició/Untitled.md",
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/Transició/Untitled.md",
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/Transició/Untitled.md"
+                "file": "Història/El franquisme/Franquisme (1939-1971).md"
               }
             }
           },
@@ -193,8 +175,9 @@
   },
   "active": "00e0d9b1163fea1c",
   "lastOpenFiles": [
-    "Història/Transició/La transició DEFINITIU .pdf",
+    "Història/El franquisme/El franquisme.md",
     "Història/Transició/Untitled.md",
+    "Història/Transició/La transició DEFINITIU .pdf",
     "conflict-files-obsidian-git.md",
     "Templates/Untitled.md",
     "Pasted image 20230430181743.png",
