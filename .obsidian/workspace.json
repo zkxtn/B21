@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f33ea416290cdc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md"
               }
             }
           },
@@ -185,10 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f33ea416290cdc66",
+  "active": "95fceda4a6536173",
   "lastOpenFiles": [
-    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
     "Untitled.md",
+    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
