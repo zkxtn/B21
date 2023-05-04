@@ -37,8 +37,6 @@
   "expandedFolders": {
     "/": [
       "Història",
-      "Història/El franquisme",
-      "Història/El franquisme/2. Govern de tecnocrates",
       "Història/El franquisme/Dates",
       "Història/El franquisme/Dates",
       "Castellano",
@@ -46,9 +44,9 @@
       "Castellano/Castellano_arch 2/3r TRIM",
       "Castellano/Castellano_arch 2/3r TRIM/Actividades",
       "Castellano/0. Glosario",
-      "Història/El franquisme",
       "Història/El franquisme/1. Autarquia",
-      "Castellano/0. Glosario/Ortografía y lexico"
+      "Castellano/0. Glosario/Ortografía y lexico",
+      "Història/El franquisme"
     ]
   },
   "expandedSpaces": [
@@ -85,6 +83,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682871201156,
+  "spacesAutoBackupLast": 1683201458429,
   "spacesUseAlias": true
 }
