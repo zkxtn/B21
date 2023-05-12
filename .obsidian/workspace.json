@@ -11,14 +11,6 @@
             "id": "373b00b80bbb05ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b82030cdb530e808",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +221,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b82030cdb530e808",
+  "active": "373b00b80bbb05ef",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230307103207.png",
+    "Attachments/WhatsApp Image 2023-05-12 at 21.44.22.jpg",
     "Home.md",
     "Untitled 1.md",
     "2023-05-12.md",
@@ -262,7 +255,6 @@
     "Castellano/Castellano_arch 2/Castellano_arch 2.md",
     "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades.md",
     "Castellano/Castellano_arch 2/3r TRIM/Actividades",
-    "Castellano/Castellano_arch 2/3r TRIM/3r TRIM.md",
     "Castellano/Castellano_arch 2/3r TRIM",
     "Untitled 1",
     "Untitled",
@@ -285,7 +277,6 @@
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647 1.jpg",
-    "Filosofia/Filosofia_archv/U4 Realidad/Attachments/Pasted image 20220325134334.png",
     "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas"
   ]
 }
