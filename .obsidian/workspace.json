@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c1127906e519ec80",
+        "id": "8dd07cbddcc5e444",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5009e054d9893e",
+            "id": "373b00b80bbb05ef",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b82030cdb530e808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -100,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +137,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d6705a841913fb02",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,6 +161,22 @@
         "id": "27390cc4a92705bf",
         "type": "tabs",
         "children": [
+          {
+            "id": "6a7f046d692f927d",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cdc62446fdbed36",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          },
           {
             "id": "9dba9ea64e91402d",
             "type": "leaf",
@@ -154,21 +195,26 @@
               "type": "git-view",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "77bc49b9a45680f7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d6705a841913fb02",
+            "id": "f22477d83551c6a5",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "google-calendar-view-day",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 451
+    "width": 334
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +226,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9b5009e054d9893e",
+  "active": "b82030cdb530e808",
   "lastOpenFiles": [
+    "Home.md",
+    "Untitled 1.md",
     "2023-05-12.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/El franquisme.md",
@@ -205,7 +254,6 @@
     "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
     "Castellano/Castellano_arch 2/3r TRIM/Actividades/Actividades apartado 3 Selectividad.md",
     "PDF'S SELE/PDF'S SELE.md",
@@ -216,7 +264,6 @@
     "Castellano/Castellano_arch 2/3r TRIM/Actividades",
     "Castellano/Castellano_arch 2/3r TRIM/3r TRIM.md",
     "Castellano/Castellano_arch 2/3r TRIM",
-    "Castellano/Castellano_arch 2/2n TRIM/2n TRIM.md",
     "Untitled 1",
     "Untitled",
     "Història/El franquisme/2.4 Franquisme part 2.pdf",
