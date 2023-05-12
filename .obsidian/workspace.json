@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd07cbddcc5e444",
+        "id": "154893455ebd7f98",
         "type": "tabs",
         "children": [
           {
-            "id": "373b00b80bbb05ef",
+            "id": "5e82220f4550e599",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2f18cb7c60e7d1cf",
@@ -221,11 +220,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "373b00b80bbb05ef",
+  "active": "48c8e6d87200d794",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Home.md",
     "Attachments/Pasted image 20230307103207.png",
     "Attachments/WhatsApp Image 2023-05-12 at 21.44.22.jpg",
-    "Home.md",
     "Untitled 1.md",
     "2023-05-12.md",
     "Història/El franquisme/Franquisme (1939-1971).md",
@@ -276,7 +276,6 @@
     "Història/Tema 6 y 8/Reinado de Alfonso XIII.canvas",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647.jpg",
-    "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/IMG_20220425_132647 1.jpg",
     "Castellano/0. Glosario/Subordinadas/Subordinada Relativa/Subordinadas Relativas.canvas"
   ]
 }

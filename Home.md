@@ -9,3 +9,7 @@ show starred files
 
 >[!tasks]- Tasks
 
+>[!cal-timeline]- Timeline
+
+
+

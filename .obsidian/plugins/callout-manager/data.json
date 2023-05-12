@@ -1,7 +1,56 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "cal-timeline"
+    ],
+    "settings": {
+      "intro": [
+        {
+          "changes": {
+            "icon": "lucide-calendar"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "135, 176, 249"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "135, 176, 249"
+          }
+        }
+      ],
+      "cal-timeline": [
+        {
+          "changes": {
+            "icon": "lucide-calendar"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "135, 176, 249"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "135, 176, 249"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,
