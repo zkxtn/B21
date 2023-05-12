@@ -39,14 +39,14 @@
       "Història",
       "Història/El franquisme/Dates",
       "Història/El franquisme/Dates",
-      "Castellano",
       "Castellano/Castellano_arch 2",
       "Castellano/Castellano_arch 2/3r TRIM",
       "Castellano/Castellano_arch 2/3r TRIM/Actividades",
       "Castellano/0. Glosario",
       "Història/El franquisme/1. Autarquia",
       "Castellano/0. Glosario/Ortografía y lexico",
-      "Història/Transició"
+      "Història/Transició",
+      "Història"
     ]
   },
   "expandedSpaces": [
@@ -83,6 +83,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683201719245,
+  "spacesAutoBackupLast": 1683918871197,
   "spacesUseAlias": true
 }

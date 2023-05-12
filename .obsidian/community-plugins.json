@@ -5,8 +5,18 @@
   "obsidian-git",
   "note-refactor-obsidian",
   "callout-manager",
-  "graph-analysis",
   "various-complements",
   "obsidian-style-settings",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "obsidian-tracker",
+  "obsidian-textgenerator-plugin",
+  "settings-search",
+  "recent-files-obsidian",
+  "obsidian-advanced-uri",
+  "cm-editor-syntax-highlight-obsidian",
+  "google-calendar",
+  "graph-analysis",
+  "highlightr-plugin",
+  "home-tab",
+  "obsidian-kanban"
 ]
