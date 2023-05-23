@@ -1,3 +1,18 @@
 {
-  "anuppuccin-theme-settings@@anp-callout-select": "none"
+  "anuppuccin-theme-settings@@anp-callout-select": "none",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-darker",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
+  "anuppuccin-theme-settings@@anp-cursor": "pointer",
+  "anuppuccin-theme-settings@@anp-background-image-toggle": false,
+  "anuppuccin-theme-settings@@anp-file-icons": false,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
+  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": true,
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-card-shadows": true
 }

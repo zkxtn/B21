@@ -4,7 +4,10 @@
     "extended-colorschemes",
     "custom-rainbow-colors",
     "timelines",
-    "timeline-snippet"
+    "timeline-snippet",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "MCL Gallery Cards"
   ],
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 11

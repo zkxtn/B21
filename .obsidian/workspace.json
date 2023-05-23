@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "154893455ebd7f98",
+        "id": "35bcb72cdab76c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e82220f4550e599",
+            "id": "691f48181408b8d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2f18cb7c60e7d1cf",
@@ -150,6 +151,7 @@
       {
         "id": "27390cc4a92705bf",
         "type": "tabs",
+        "dimension": 55.74412532637075,
         "children": [
           {
             "id": "6a7f046d692f927d",
@@ -191,6 +193,7 @@
       {
         "id": "77bc49b9a45680f7",
         "type": "tabs",
+        "dimension": 44.25587467362924,
         "children": [
           {
             "id": "f22477d83551c6a5",
@@ -215,15 +218,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "48c8e6d87200d794",
+  "active": "691f48181408b8d2",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "Home.md",
+    "Untitled Kanban.md",
     "Attachments/Pasted image 20230307103207.png",
     "Attachments/WhatsApp Image 2023-05-12 at 21.44.22.jpg",
     "Untitled 1.md",
