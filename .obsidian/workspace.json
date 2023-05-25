@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/Transició/La transició DEFINITIU .pdf"
+                "file": "Història/Transició/Untitled.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/Transició/La transició DEFINITIU .pdf",
+                "file": "Història/Transició/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/Transició/La transició DEFINITIU .pdf",
+                "file": "Història/Transició/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,10 +242,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e92bc66e13029543",
+  "active": "71f6a2f620a6167b",
   "lastOpenFiles": [
-    "Història/Transició/Untitled.md",
     "Història/Transició/La transició DEFINITIU .pdf",
+    "Història/Transició/Untitled.md",
     "Home.md",
     "Història/Tema 6 y 8/Tema 6 y 8.md",
     "Història/Historia con la lidia/0.1. Restauració Borbónica (A).md",

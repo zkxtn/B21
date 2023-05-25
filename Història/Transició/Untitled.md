@@ -60,4 +60,26 @@ Es van avançar les relacions entre l’oposició catalana i els grups d’oposi
 > - Declaració de drets fonamentals i llibertats, individuals i col.lectives. 
 > - **Sufragi universal** 
 > - Instaura la llibertat de mercat (**capitalisme**), però permet la intervenció de l’Estat en la propietat per motius d’interès general.
+> - Separació dels tres poders: 
+> 	- Poder legislatiu Bicameral(parlament i senat) 
+> 	- Poder judicial independent.
+> 	- Poder en mans del govern de l’estat
+> - Caràcter **No Confessional** de l’estat: 
+> 	L’estat no s'adhereix i no reconeix com a oficial cap religió en concret, encara que pugui tenir acords (col·laboratius o d'ajuda econòmica principalment) amb certes institucions religioses.
+
+>[!note]+ ## Estatut d'autonomia Sau 1979 (vigent fins el 2003)
+>- Algunes característiques de l’Estatut de Sau Catalunya és una nacionalitat que es constitueix en comunitat autònoma (CCAA).
+>- El català és la llengua pròpia de Catalunya en cooficialitat amb el castellà.
+>- El dret català té preferència sobre qualsevol altre.
+>- La Generalitat és la institució que organitza l’autogovern de Catalunya. A partir d’aquesta es donen tres institucions: 
+>	- a.- El Parlament (poder legislatiu elegit per sufragi Universal) 
+>	- b.- El president (elegit pel parlament) 
+>	- c.- Consell Executiu (tenia atribucions executives) 
+>- L’Estatut contempla com a òrgan judicial màxim dintre de Catalunya el Tribunal Superior de Justícia de Catalunya (TSJC).
+>- La Generalitat té competències (possibilitat de fer normes)exclusives. 
+>- La Generalitat té competències compartides.
+>- Algunes característiques de l’Estatut.
+>- L’Autonomia catalana es finançaria a partir de les transferències de l’estat, i/o dels recursos propis que pogués generar la Generalitat . (La clau de la caixa era de l’estat).
+>- La Generalitat tindrà competències compartides (Estat-Generalitat) en treball, justícia, ports i aeroports, ordenació de transports, medi ambient, institucions penitenciaries, etc...
+>- Generalitat tindrà competències (possibilitat de fer normes) exclusives en matèries de turisme, cultura, investigació, règim local, ordenació del territori, obres públiques, assistència social i educació
 
