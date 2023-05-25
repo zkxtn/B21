@@ -49,3 +49,15 @@ Es van avançar les relacions entre l’oposició catalana i els grups d’oposi
 > - Les mobilitzacions de l’hivern del 75-76, van tenir gran importància a CATALUNYA , al PAÍS BASC i a MADRID. Vagues durant setmanes. La resposta del govern i dels empresaris van ser detencions, acomiadaments... 
 > - Van destacar per la seva incidència les manifestacions de Barcelona de l’1 al 8 de febrer del 1976, vagues generals de Sabadell i Baix Llobregat.
 
+> [!important]+ ## Constitució de 1978
+> **Característiques de la constitució**
+> - Espanya és **Monarquia parlamentaria.** 
+> 	- La corona té funcions representatives.
+> - Espanya es defineix com: “estat social i democràtic de dret”. 
+> 	- Dret a l’autonomia de les nacionalitats i regions. 
+> - Oficialitat del castellà a més de les llengües pròpies de les regions autònomes. 
+> - Exèrcit supeditat al poder civil. 
+> - Declaració de drets fonamentals i llibertats, individuals i col.lectives. 
+> - **Sufragi universal** 
+> - Instaura la llibertat de mercat (**capitalisme**), però permet la intervenció de l’Estat en la propietat per motius d’interès general.
+
