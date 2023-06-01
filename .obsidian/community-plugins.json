@@ -1,12 +1,12 @@
 [
-  "make-md",
+  "callout-manager",
   "dataview",
-  "templater-obsidian",
-  "text-snippets-obsidian",
+  "make-md",
+  "note-refactor-obsidian",
   "obsidian-git",
   "obsidian-style-settings",
-  "note-refactor-obsidian",
-  "callout-manager",
+  "templater-obsidian",
+  "obsidian-timelines",
   "obsidian-timeline",
   "various-complements"
 ]

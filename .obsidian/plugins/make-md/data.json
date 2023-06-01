@@ -69,7 +69,10 @@
       "Castellano/0. Glosario",
       "Història/El franquisme/2. Govern de tecnocrates",
       "Castellano/0. Glosario",
-      "Castellano/Castellano_arch 2/2n TRIM/Attachments"
+      "Castellano/Castellano_arch 2/2n TRIM/Attachments",
+      "Castellano",
+      "Castellano/0. Glosario/Funciones informativas/Tema y rema",
+      "Castellano/0. Glosario/Verbo"
     ]
   },
   "expandedSpaces": [
@@ -106,6 +109,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683144874623,
+  "spacesAutoBackupLast": 1685641816573,
   "spacesUseAlias": true
 }

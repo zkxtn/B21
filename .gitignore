@@ -12,6 +12,6 @@
 .obsidian
 >>>>>>> origin/main
 
-
+ .obsidian/community-plugins.json
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
