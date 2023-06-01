@@ -11,8 +11,12 @@
             "id": "dc1247cb9fde2be1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Història/El franquisme/Franquisme (1939-1971).md"
+              }
             }
           }
         ],
@@ -161,6 +169,8 @@
   },
   "active": "dc1247cb9fde2be1",
   "lastOpenFiles": [
+    "Física/Física.md",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Castellano/0. Glosario/Subordinadas/Subordinadas.md",
     "Castellano/0. Glosario/Verbo/Verbos transitivos e intrasitivos.md",
@@ -168,7 +178,6 @@
     "Castellano/0. Glosario/Funciones informativas/Tema y rema/Rematización o focalización.md",
     "Castellano/0. Glosario/0. Glosario.md",
     "Castellano/0. Glosario/Ortografía y lexico/Ortografía y lexico.md",
-    "Untitled.md",
     "Història/Transició/Untitled.md",
     "Història/Transició/La transició DEFINITIU .pdf",
     "Història/Transició",
@@ -190,7 +199,6 @@
     "Castellano/Untitled.md",
     "Pasted image 20230430181743.png",
     "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
-    "Història/Attachments/fETS DEL PALAU DE LA MUSICA.md",
     "Història/El franquisme/2. Govern de tecnocrates",
     "Història/El franquisme/1. Autarquia",
     "Història/El franquisme/2.4 Franquisme part 2.pdf",
