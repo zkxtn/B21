@@ -1,11 +1,15 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "extended-colorschemes",
+    "Alt Color Scheme Template",
+    "anp-its-frontmatter-settings",
+    "callouts",
     "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-searchbar",
+    "floating-statusbar",
+    "minimal-cards",
     "timelines",
-    "timeline-snippet"
-  ],
-  "cssTheme": "AnuPpuccin",
-  "baseFontSize": 14
+    "notion-cards"
+  ]
 }

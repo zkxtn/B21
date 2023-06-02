@@ -38,7 +38,9 @@
     "/": [
       "Física",
       "Història",
-      "Història/El franquisme"
+      "Història/Attachments",
+      "Història",
+      "Història/La Guerra Civil"
     ]
   },
   "expandedSpaces": [
@@ -75,6 +77,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685641936092,
+  "spacesAutoBackupLast": 1685690551509,
   "spacesUseAlias": true
 }
