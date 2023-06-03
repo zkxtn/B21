@@ -41,7 +41,11 @@
       "Història/Attachments",
       "Història",
       "Història/La Guerra Civil",
-      "Història/La Guerra Civil/Notes"
+      "Història/El franquisme",
+      "Història/El franquisme/Dates",
+      "Història/El franquisme",
+      "Història/El franquisme/0. La postguerra i la construcció del règim franquista",
+      "Història/El franquisme/2. Govern de tecnocrates"
     ]
   },
   "expandedSpaces": [
@@ -78,6 +82,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685690567664,
+  "spacesAutoBackupLast": 1685794009872,
   "spacesUseAlias": true
 }

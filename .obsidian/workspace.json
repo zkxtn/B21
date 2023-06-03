@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/Franquisme (1939-1971).md",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,19 +23,15 @@
             "id": "7378262cc80e48e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
-                "viewState": {
-                  "x": 1638.3899371069183,
-                  "y": 535.433962264151,
-                  "zoom": -0.6059802819902393
-                }
+                "file": "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas"
+                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md"
               }
             }
           }
@@ -183,13 +179,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7378262cc80e48e8",
+  "active": "dc1247cb9fde2be1",
   "lastOpenFiles": [
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/0. La postguerra i la construcció del règim franquista.md",
+    "Història/El franquisme/Dates/Dates de legislació franquista.md",
+    "Història/El franquisme/Dates/Dates.md",
+    "Història/El franquisme/Franquisme (1939-1971).md",
+    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
+    "Història/El franquisme/1. Autarquia/1. Autarquia.md",
+    "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
     "Història/La Guerra Civil/La Guerra Civil.canvas",
     "Història/La Guerra Civil/Guerra Civil (Jul 17, 1936 – Apr 1, 1939).md",
     "conflict-files-obsidian-git.md",
     "Història/Attachments/Attachments.md",
-    "Història/El franquisme/Franquisme (1939-1971).md",
     "Untitled Kanban.md",
     "Untitled 1.md",
     "Home.md",
@@ -203,18 +210,9 @@
     "Castellano/0. Glosario/Funciones informativas/Tema y rema/Tematización topicalización.md",
     "Castellano/0. Glosario/Funciones informativas/Tema y rema/Rematización o focalización.md",
     "Castellano/0. Glosario/0. Glosario.md",
-    "Castellano/0. Glosario/Ortografía y lexico/Ortografía y lexico.md",
-    "Història/Transició/Untitled.md",
     "Història/Transició/La transició DEFINITIU .pdf",
     "Història/Transició",
-    "Castellano/0. Glosario/Subordinadas/Subordinada Sustantivo/Subordinada Sustantivo.md",
     "Castellano/0. Glosario/glosari_castella_2023.pdf",
-    "Castellano/Castellano_arch 2/2n TRIM/Attachments/Attachments.md",
-    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
-    "Història/El franquisme/1. Autarquia/7. Franquisme a Catalunya.md",
-    "Templates/Untitled.md",
-    "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
-    "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
     "Pasted image 20230430181743.png",
     "Història/El franquisme/2. Govern de tecnocrates",
     "Història/El franquisme/1. Autarquia",
@@ -230,7 +228,6 @@
     "Història/La Segunda Republica/D-D/27.02.23.canvas",
     "Història/La Segunda Republica/D-D/23.01.23.canvas",
     "Història/La Guerra Civil/Notes/Untitled.canvas",
-    "Història/La Guerra Civil/Notes/6 Marzo 2023.canvas",
     "Història/Tema 6 y 8/Reinado de Alfonso XIII.canvas",
     "Història/Attachments/Imagen de WhatsApp 2023-02-25 a las 15.33.16.jpg",
     "Filosofia/Filosofia_archv/U4 Realidad/Apunts clase/Attachments/Pasted image 20220422125357.png",
