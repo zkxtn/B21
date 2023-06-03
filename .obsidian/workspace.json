@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
+                "file": "Història/El franquisme/Franquisme (1939-1971).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md"
+                "file": "Història/El franquisme/Franquisme (1939-1971).md"
               }
             }
           }
@@ -181,11 +181,12 @@
   },
   "active": "dc1247cb9fde2be1",
   "lastOpenFiles": [
-    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
+    "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/0. La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
     "Història/El franquisme/Dates/Dates.md",
@@ -209,7 +210,6 @@
     "Castellano/0. Glosario/Verbo/Verbos transitivos e intrasitivos.md",
     "Castellano/0. Glosario/Funciones informativas/Tema y rema/Tematización topicalización.md",
     "Castellano/0. Glosario/Funciones informativas/Tema y rema/Rematización o focalización.md",
-    "Castellano/0. Glosario/0. Glosario.md",
     "Història/Transició/La transició DEFINITIU .pdf",
     "Història/Transició",
     "Castellano/0. Glosario/glosari_castella_2023.pdf",
