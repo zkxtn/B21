@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
+                "file": "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
+                "file": "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
+                "file": "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md"
+                "file": "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md"
               }
             }
           }
@@ -182,12 +182,14 @@
   "active": "dc1247cb9fde2be1",
   "lastOpenFiles": [
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/1. Introducció (Guerra C. + Postguerra).md",
-    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
-    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
-    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
+    "Història/El franquisme/1. Autarquia/7. Franquisme a Catalunya.md",
+    "Història/El franquisme/1. Autarquia/5. Context Internacional (1939-1959).md",
     "Història/El franquisme/1. Autarquia/6. L'autarquia (1939 - 1959).md",
-    "Història/El franquisme/Franquisme (1939-1971).md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/La postguerra i la construcció del règim franquista.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/4. L'Església i l'estat franquista.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/3. Resistència i oposició.md",
+    "Història/El franquisme/0. La postguerra i la construcció del règim franquista/2. Política franquista.md",
+    "Història/El franquisme/Franquisme (1939-1971).md",
     "Història/El franquisme/2. Govern de tecnocrates/Govierno de tecnocratas.md",
     "Història/El franquisme/0. La postguerra i la construcció del règim franquista/0. La postguerra i la construcció del règim franquista.md",
     "Història/El franquisme/Dates/Dates de legislació franquista.md",
@@ -208,8 +210,6 @@
     "Untitled.md",
     "Castellano/0. Glosario/Subordinadas/Subordinadas.md",
     "Castellano/0. Glosario/Verbo/Verbos transitivos e intrasitivos.md",
-    "Castellano/0. Glosario/Funciones informativas/Tema y rema/Tematización topicalización.md",
-    "Castellano/0. Glosario/Funciones informativas/Tema y rema/Rematización o focalización.md",
     "Història/Transició/La transició DEFINITIU .pdf",
     "Història/Transició",
     "Castellano/0. Glosario/glosari_castella_2023.pdf",
